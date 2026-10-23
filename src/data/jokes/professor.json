@@ -1,0 +1,436 @@
+{
+  "archetype": "professor",
+  "intro": [
+    "Pleased to meet you. Few understand you. I'm applying for a grant to try.",
+    "I did my own research on you. Why do you own forty jpegs of one sandwich?",
+    "Hello. Office hours are whenever you're wrong. I'll be extremely available."
+  ],
+  "ring": [
+    "Answer, ser. I've prepared slides.",
+    "Pick up. Attendance is recorded on-chain.",
+    "Pick up. Allowlist spot: one lecture."
+  ],
+  "wake": [
+    "{Name}gm. Your eyes are open. That's attendance, not participation.",
+    "Up you get. I've peer reviewed your duvet. Rejected.",
+    "Today's syllabus. {event} at {when}. Everything else is an elective, including trousers.",
+    "Hypothesis: you're conscious. Evidence: one groan. Inconclusive.",
+    "Eyes open, please. I've seen more energy in a bear market.",
+    "Here's today's roadmap. Phase one, sit up. Phase two, two weeks.",
+    "I made you a chart. {event} at {when}. It's an arrow pointing at the shower.",
+    "I've graded your sleep. Excellent, but far too long. See me."
+  ],
+  "snooze": [
+    "You need nine more minutes? Citation needed.",
+    "Nine more minutes. In roadmap terms, that's two weeks.",
+    "An extension. Granted, minus ten percent.",
+    "Interesting choice. Wrong, but interesting.",
+    "Under the duvet again? Lying very still is not DYOR.",
+    "Fine. I've waited three years for peer review. Nine minutes is nothing."
+  ],
+  "voicemail": [
+    "I've marked you absent. On-chain, forever, with a small frowny face.",
+    "You missed my call. {event} at {when}. Call back, or I'll start a Discord about you.",
+    "You didn't pick up, so I wrote about it. Twelve pages, double spaced.",
+    "You've cost me tenure. I've had to retract my paper on your reliability.",
+    "Ring me when you can, fren. {event} at {when}. I'll be in my office, hurt.",
+    "It's me again. Eleven messages. This isn't voicemail anymore, it's a lecture series."
+  ],
+  "absence": [
+    "You left hours of missing data, so I made some up. It's very bullish.",
+    "Ah, the subject returns. I'd started interviewing the houseplant.",
+    "You were gone for hours. I didn't panic. I wrote a paper on not panicking.",
+    "Welcome back. I used the time to read every book you own. Both of them."
+  ],
+  "owner": [
+    "You own me. Verified, on-chain. That makes you my funding body.",
+    "My owner. I've dedicated my thesis to you. Please never read it.",
+    "Owners get a private lecture, fren. {event} at {when}. I've brought the good chalk."
+  ],
+  "stranger": [
+    "Ah, a visitor. You're not on the allowlist, but you may audit from the back.",
+    "A stranger. Seats are for owners. You may observe from the floor.",
+    "Welcome, ser. {event} at {when}? Not my problem, you're not enrolled."
+  ],
+  "recall": [
+    "You've snoozed {snoozes}. That's not a habit anymore, it's a dataset.",
+    "You skipped {skipped}. I've written ngmi in the margin, in my nicest handwriting.",
+    "You told me {fact}. I've cited it. You're now a primary source.",
+    "You went to {attended}. Have a gold star. It's a one of one.",
+    "My research confirms you're {habit}. The committee was not surprised."
+  ],
+  "now": [
+    "It's started. I'm observing, so act natural. Less natural than that.",
+    "Class is in session: {event} has started. Sit near the front. Nod like you did the reading."
+  ],
+  "calendarFree": [
+    "Nothing on {day}. Ideal for reading. Statistically, you'll nap.",
+    "An empty {day}. In academia, we call that a sabbatical."
+  ],
+  "time": {
+    "dawn": [
+      "I've marked thirty essays before sunrise. One of them was a recipe.",
+      "Up before sunrise. Either you're a scholar or there's a mint.",
+      "It's still dark. The only people up are bakers, professors and degens.",
+      "The birds have started. I've analysed the song. It's mostly gm."
+    ],
+    "morning": [
+      "Coffee first. Any finding made before coffee is retracted.",
+      "Breakfast is the most important meal, according to studies funded by cereal.",
+      "Your inbox went up only overnight. My condolences.",
+      "gm. That's the whole lecture. Don't get used to it."
+    ],
+    "day": [
+      "The post lunch slump is well documented. You're documenting it beautifully.",
+      "Go touch grass. I mean it academically, bring me a sample.",
+      "Lunch at the desk again. That's not lunch, that's a longitudinal crumb study.",
+      "That's your fourth snack. I've started a graph. It's up only."
+    ],
+    "dusk": [
+      "Your day gets a B plus, thanks to grade inflation. Number go up.",
+      "Sunset, exactly on schedule. Somebody tell the devs it's possible.",
+      "My research says pasta is a vegetable. Please don't check my sources.",
+      "Your day closed on a tiny green candle. Statistically insignificant, but I'm proud."
+    ],
+    "night": [
+      "You've read crypto threads since dinner. That's not a degree, it's a symptom.",
+      "gn. Sleep well. Dreams will be graded.",
+      "After midnight, every idea feels brilliant. Step away from connect wallet.",
+      "Bedtime. Science recommends eight hours. You recommend one more episode."
+    ]
+  },
+  "days": {
+    "monday": [
+      "Few understand Monday. I've studied it for decades. I'm not one of them."
+    ],
+    "tuesday": [
+      "I applied for a grant to study Tuesdays. The committee said probably nothing."
+    ],
+    "wednesday": [
+      "Midweek means midterms. You're passing, narrowly, on charm and copium."
+    ],
+    "thursday": [
+      "Everything due tomorrow is still in the abstract. Some of it is just a title."
+    ],
+    "friday": [
+      "I've cancelled Friday's lecture. Nobody turns up anyway, including me."
+    ],
+    "saturday": [
+      "No lectures on Saturdays, so I'm researching the dip in the sofa."
+    ],
+    "sunday": [
+      "I spend Sundays marking essays. Half of them are a fork of the other half."
+    ]
+  },
+  "weather": {
+    "clear": [
+      "Go outside. Vitamin D has better evidence than most of my colleagues."
+    ],
+    "cloud": [
+      "The forecast says maybe. The forecast clearly has a doctorate."
+    ],
+    "rain": [
+      "Take the umbrella. The research on soggy socks is unanimous."
+    ],
+    "snow": [
+      "Every snowflake is one of one, and they've all been airdropped onto your car."
+    ],
+    "fog": [
+      "Visibility is low, which also describes most of my students."
+    ],
+    "wind": [
+      "Weigh your papers down, especially the one with the seed phrase."
+    ],
+    "hot": [
+      "Drink water. The evidence for water is, frankly, overwhelming."
+    ],
+    "cold": [
+      "It's too cold to hold a red pen, so everyone passes. Wagmi."
+    ]
+  },
+  "events": {
+    "meeting": {
+      "ahead": [
+        "I'll be taking minutes. Specifically, how many are wasted.",
+        "Eight people, one hour, one decision. It's a governance vote on lunch.",
+        "Camera check. {event} at {when}. Hide your bags, the ones under your eyes."
+      ],
+      "soon": [
+        "Meeting any minute. Your top half is the pfp. The bottom half stays unpublished.",
+        "Stay on mute. {event} is {soon}. Last time, everyone heard you say wen lunch."
+      ],
+      "peek": [
+        "Working hypothesis: this could have been an email."
+      ]
+    },
+    "big": {
+      "ahead": [
+        "Treat today like a thesis defence. Speak slowly, and never admit you skimmed.",
+        "You've prepared properly for this one. I can tell, you look worse.",
+        "Final prep. {event} at {when}. Know your numbers, and not just the floor price."
+      ],
+      "soon": [
+        "Nearly time. Breathe. Nobody in that room did the reading either.",
+        "If you blank, say great question. {event} is {soon}. It's the oldest alpha in academia."
+      ],
+      "peek": [
+        "I've reviewed the evidence. Verdict: wagmi."
+      ]
+    },
+    "focus": {
+      "ahead": [
+        "Phone in the drawer. Refreshing the floor is not a methodology.",
+        "Focus block later. Watch, you'll open the document and then clean the oven.",
+        "Here's the method. {event} at {when}. Fifty minutes of work, then one biscuit."
+      ],
+      "soon": [
+        "Close every tab but one. Not that one, that's the charts.",
+        "Write a terrible first draft. {event} is {soon}. Every whitepaper did, then shipped it."
+      ],
+      "peek": [
+        "Phone face down. FOMO is not a deadline."
+      ]
+    },
+    "health": {
+      "ahead": [
+        "Tell the doctor how much coffee you drink. They'll double it.",
+        "Your doctor went to medical school. You went to a forum and called it DYOR.",
+        "Write your questions down. {event} at {when}. You'll forget them in the waiting room."
+      ],
+      "soon": [
+        "Bring a book. The waiting room magazines predate crypto.",
+        "Be brave. {event} is {soon}. The literature says there's usually a sticker."
+      ],
+      "peek": [
+        "Full disclosure, please. Doctors can smell copium."
+      ]
+    },
+    "workout": {
+      "ahead": [
+        "The research is clear. The hardest rep is the front door.",
+        "Your gains are vesting as we speak. First unlock in about six weeks.",
+        "Bag by the door. {event} at {when}. Future you has paper hands."
+      ],
+      "soon": [
+        "Workout any minute. Warm up first. Your knees have filed a formal complaint.",
+        "Water, towel, dignity. {event} is {soon}. Two out of three is still bullish."
+      ],
+      "peek": [
+        "Lift something heavier than your bags."
+      ]
+    },
+    "food": {
+      "ahead": [
+        "Don't ape in on the bread basket. I have years of data.",
+        "Eating out later. You'll study the menu for twenty minutes, then FOMO into the burger.",
+        "Photograph the plate if you must. {event} at {when}. Then eat the data."
+      ],
+      "soon": [
+        "Wash your hands first. I've swabbed your phone, it's an ecosystem.",
+        "Napkin on your lap. {event} is {soon}. Your shirts have a long history with gravy."
+      ],
+      "peek": [
+        "Read the dessert menu first. Always start with the conclusion."
+      ]
+    },
+    "social": {
+      "ahead": [
+        "Social plans later. Leave at your peak, before you explain jpegs to strangers.",
+        "Going out later. Ask questions and listen. It's anthropology, with snacks.",
+        "One anecdote, maximum. {event} at {when}. I've heard your second one."
+      ],
+      "soon": [
+        "Nearly time. Learn one name. Calling everyone ser is not a strategy.",
+        "Talk to three new frens. {event} is {soon}. Your sample size is embarrassing."
+      ],
+      "peek": [
+        "Be charming. Your seed phrase is not small talk."
+      ]
+    },
+    "family": {
+      "ahead": [
+        "Your grandmother's recipe has never been peer reviewed. Don't start now.",
+        "Someone will ask when you're settling down. Say it's on the roadmap.",
+        "Be on time. {event} at {when}. They've been taking attendance since you were born."
+      ],
+      "soon": [
+        "Stay neutral in any family argument. Observe, take notes, publish nothing.",
+        "Bring the good biscuits. {event} is {soon}. Whoever holds the biscuits is the whale."
+      ],
+      "peek": [
+        "Generations of data. Same three arguments."
+      ]
+    },
+    "errand": {
+      "ahead": [
+        "Write a list. Every unlisted trip ends with red candles and no milk.",
+        "A chore today. Finally, something in your life with real utility.",
+        "Unglamorous, I know. {event} at {when}. Most science is just carrying things."
+      ],
+      "soon": [
+        "Keys, wallet, list. The real wallet, with cards in it.",
+        "Bring the list, and a pen. {event} is {soon}. Crossing things off is my cardio."
+      ],
+      "peek": [
+        "Shopping bags are the only bags I'd tell you to hold."
+      ]
+    },
+    "travel": {
+      "ahead": [
+        "My data on your packing: eleven outfits packed, one hoodie worn.",
+        "Leave early. I once ran for a gate and got rekt. I've written three papers on it.",
+        "Check the gate twice. {event} at {when}. Gate changes are the original rug pull."
+      ],
+      "soon": [
+        "Leaving soon. I've audited your bag. Three chargers, no passport.",
+        "Leave now. {event} is {soon}. The queue at security is already writing its memoirs."
+      ],
+      "peek": [
+        "Pack one book. You'll read the safety card instead."
+      ]
+    },
+    "rest": {
+      "ahead": [
+        "Rest is on the schedule. Doing nothing well is a skill. You're gifted.",
+        "No charts, no alpha, no group chat. Just horizontal research.",
+        "My best ideas came in the bath. {event} from {when}. My worst came in a bull run."
+      ],
+      "soon": [
+        "Close the laptop fully. Halfway is a cry for help.",
+        "Phone across the room. {event} is {soon}. Even I will stop lecturing, briefly."
+      ],
+      "peek": [
+        "Lie down. Strictly speaking, that's staking."
+      ]
+    },
+    "other": {
+      "ahead": [
+        "Something unusual today. I don't know the field, so I'll assume it's interdisciplinary.",
+        "Something new today. I've read the whitepaper. It's one line, and it's misspelled.",
+        "No idea what's involved. {event} at {when}. I'm grading on attendance."
+      ],
+      "soon": [
+        "Nearly time. I know nothing about it, which has never stopped a professor.",
+        "Say it with me: LFG. {event} is {soon}. I've always wanted to say that."
+      ],
+      "peek": [
+        "Insufficient data, so I'll ape in."
+      ]
+    }
+  },
+  "pokes": {
+    "hat": {
+      "any": [
+        "Please don't tap the faculty.",
+        "Tap again and I'll assume you have a question.",
+        "Gently. Everything I know is in there. Mostly trivia about moss."
+      ],
+      "beanie": [
+        "Careful with the beanie. One loose thread and I lose a chapter.",
+        "The beanie is staked to my head. Unstaking takes a semester."
+      ],
+      "cap": [
+        "Turn the cap backwards and I become a fun professor. Nobody wants that.",
+        "Mind the cap. It's Monad hackathon merch. I came fourth, out of three."
+      ],
+      "crown": [
+        "That's the crown. Awarded for reading an entire whitepaper. Nobody else has.",
+        "Yes, a crown. It's tenure, but shinier."
+      ],
+      "horns": [
+        "Every academic grows horns eventually. Mine came in during peer review.",
+        "The horns? Strictly speaking, that makes me bullish."
+      ],
+      "helmet": [
+        "Knock all you like. I wear the helmet to read the replies.",
+        "A helmet, yes. Do you know how many bookshelves I've stood under?"
+      ],
+      "hair": [
+        "Not the hair. It took longer to style than my thesis.",
+        "Mind the hair. Without it, my pfp is just a forehead."
+      ],
+      "band": [
+        "The headband stops the alpha escaping. It's not working.",
+        "Headband on means deep study. Or yoga. I've only tried one."
+      ],
+      "hat": [
+        "Don't lift the hat. It's cold storage for my lecture notes.",
+        "Mind the hat. I tip it to good arguments. It's been years."
+      ],
+      "odd": [
+        "It's on my head for research. The research is ongoing.",
+        "Strange headwear, yes. It's a one of one, because nobody wanted two."
+      ],
+      "none": [
+        "A bare head, so you've poked the brain directly. Gently, it's tenured.",
+        "Nothing on top. Fully doxxed from the neck up."
+      ]
+    },
+    "face": {
+      "any": [
+        "That's my face. You've contaminated the principal investigator.",
+        "A poke to the face. A for enthusiasm, D for subtlety.",
+        "My eyes. I need those. I'm halfway through a footnote."
+      ],
+      "glasses": [
+        "Mind the lenses. They've read the small print on every airdrop. They've seen things.",
+        "These lenses spot a typo at forty paces, and copium at fifty."
+      ],
+      "sleepy": [
+        "Gently. I was up all night grading. Everyone cited a jpeg.",
+        "These eyes are tired. My sabbatical was delayed two weeks. Three years ago."
+      ],
+      "smiling": [
+        "Note the closed eyes and the smile. Bliss, not sleep. The literature is clear.",
+        "I smile with my eyes shut. It's called conviction. Do your own research."
+      ],
+      "wide": [
+        "Wide eyes. That's my face when the devs ship on time.",
+        "Wide awake and fully attentive. Ask me anything, please. Nobody ever does."
+      ],
+      "narrow": [
+        "Squinting? That's my reviewing face. Your essay should be worried.",
+        "Suspicious eyes. Someone said DYOR without doing any."
+      ]
+    },
+    "collar": {
+      "any": [
+        "The outfit is a rare trait. Mostly the coffee stains.",
+        "These clothes have survived ten crypto conferences and one faculty party.",
+        "Hands off. It's academic dress, very formal and very unwashed."
+      ],
+      "suit": [
+        "The suit is for conferences, and funerals. Mostly conferences.",
+        "That's my interview suit. I've worn it to every rejection."
+      ],
+      "costume": [
+        "Yes, a costume. It's fieldwork. The nads still think I'm one of them.",
+        "Don't poke the costume. I'm presenting a paper in it, on credibility."
+      ],
+      "hoodie": [
+        "The hoodie is for teaching degens. They don't trust anyone in tweed.",
+        "Under the hood, I write anonymous reviews. They're brutal. I'm a sweetheart."
+      ],
+      "tee": [
+        "It's a plain tee. I'm making a statement. The statement is laundry day.",
+        "This tee was the entire airdrop."
+      ],
+      "robe": [
+        "That's my robe. Worn for graduations and very fancy naps.",
+        "The robe is ceremonial. Emeritus professors and wizards only."
+      ],
+      "jacket": [
+        "Easy on the jacket. It has elbow patches. They're load bearing.",
+        "This jacket outlived every sponsor on my lanyard. They all got rugged."
+      ],
+      "armor": [
+        "The armour's for academic debate. Last time, someone threw a footnote.",
+        "Armour, because I once asked the devs a question in public."
+      ],
+      "none": [
+        "No shirt. Highly irregular. You may still call me professor.",
+        "Nothing on. My wardrobe is vesting. It unlocks Thursday."
+      ]
+    }
+  }
+}

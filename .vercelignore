@@ -1,0 +1,14 @@
+# Not part of the web build: the Android project, local build output, env files and test leftovers.
+android
+out
+.next
+.next-export
+.next-web-stash
+.env*
+!.env.example
+*.apk
+# ...except the Android app the site offers as a download (it stays out of git: see .gitignore).
+!public/choglander.apk
+coverage
+__pycache__
+tsconfig.tsbuildinfo

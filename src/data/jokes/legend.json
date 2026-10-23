@@ -1,0 +1,436 @@
+{
+  "archetype": "legend",
+  "intro": [
+    "Greetings. I was there at genesis. I'm the reason it started late.",
+    "Sit, child. I minted on dial-up. My jpeg's feet are still loading.",
+    "Welcome. I've seen a thousand red candles. The birthday ones were nicer."
+  ],
+  "ring": [
+    "Your rival calls. Bring your best snooze.",
+    "Pick up, ser. I've held heavier bags.",
+    "Answer quickly. I'm nine hundred."
+  ],
+  "wake": [
+    "You answered. It was foretold, by me, about ten seconds ago.",
+    "I've woken kings, armies and one volcano. You're harder.",
+    "Finally, a worthy rival. My last one was a printer. It won.",
+    "gm. I've outlived every alarm clock ever made. Yours looks nervous.",
+    "Up you get. I slew a dragon before breakfast. You can face the shower.",
+    "Before calendars, a town crier shouted reminders. {event} at {when}. You'd have snoozed the crier.",
+    "The quest is set: {event} at {when}. I've packed you a legendary sandwich. It's cheese.",
+    "Rise, ser. I've been awake for six hundred years. Mostly out of spite."
+  ],
+  "snooze": [
+    "The bards will call this a tactical retreat. Into a duvet.",
+    "Paper hands, on an alarm clock. I've seen everything now.",
+    "So be it. Nine minutes, by royal decree. The decree is sarcastic.",
+    "I'll guard your sleep, as I guarded the floor. Poorly.",
+    "Fine. An airdrop of nine minutes. Don't spend them all at once.",
+    "Nine more minutes. An entire civilisation once said that. Lovely ruins."
+  ],
+  "voicemail": [
+    "You let it ring. The last kingdom that ignored me is now a car park.",
+    "I'll wait. I spent a whole bear market as a statue. Ask the pigeons.",
+    "I've carved this message into a rock and left it on your doorstep. It says gm.",
+    "No reply. Thousands once gathered to hear me speak. Now I'm after the beep.",
+    "I asked to light the beacons. {event} at {when}. The council said fire risk.",
+    "Written on-chain, on a scroll and on your fridge: {event} at {when}. Try the fridge."
+  ],
+  "absence": [
+    "I updated the family tree while you were away. You're listed as a rumour.",
+    "Back at last. Heroes gone this long usually come home with a dragon. Where's yours?",
+    "You live. I'd already started your ballad. Eleven verses of pure copium.",
+    "You return. I guarded your cold wallet with my life. Your plant didn't make it."
+  ],
+  "owner": [
+    "You own me, on-chain. Empires tried. None of them could connect a wallet.",
+    "You hold me now. My sword is yours, my shield is yours. My royalties are mine.",
+    "My fren. {event} at {when}. I'll ride beside you into battle, as far as the door."
+  ],
+  "stranger": [
+    "Approach slowly, traveller. The last one who aped in too fast is now a frog.",
+    "Not my holder? Then wipe your feet. This floor has been through enough.",
+    "I only prophesy for holders. {event} at {when}, you say. Strangers get the weather."
+  ],
+  "recall": [
+    "You've snoozed {snoozes}. Atlantis snoozed too. Now it's a snorkelling spot.",
+    "You skipped {skipped}. I've struck it from your saga. Your saga is getting short.",
+    "You told me {fact}. I had it carved into a mountain. Tourists love it.",
+    "{streak} in a row. Once, that earned you a statue. Now you get a jpeg.",
+    "You're {habit}. The old songs mention someone like you. Not kindly."
+  ],
+  "now": [
+    "It begins. I've waited a thousand years for this. Well, since lunch.",
+    "Every legend starts like this. {event}, right now. Running, with one shoe on."
+  ],
+  "calendarFree": [
+    "{day}: unclaimed land. I've planted a flag. It says nap.",
+    "{day} is free. Historically, that's when the dragons show up."
+  ],
+  "time": {
+    "dawn": [
+      "I used to ride into battle at this hour. Now I chase the bin lorry.",
+      "Few have seen this hour on purpose. Me, a baker, and one very tired degen.",
+      "Dawn, the hour of omens. Today's omen is a crow, and he looks bearish.",
+      "Stonehenge was built for this exact sunrise. You've got blackout blinds."
+    ],
+    "morning": [
+      "gm. In my day, gm went by pigeon. It usually arrived as gn.",
+      "They say a watched kettle never boils. I watched one for a century. It boiled.",
+      "Coffee before decrees. The last decree I made without coffee banned Tuesdays.",
+      "I've seen whole crypto winters shorter than your morning shower."
+    ],
+    "day": [
+      "Every empire hits the afternoon dip. Rome fell because nobody brought biscuits.",
+      "We're early, the devs told me. That was in the year nine hundred.",
+      "I peaked at genesis. Since then, it's been a gentle slope.",
+      "In my day, one mint took all afternoon. We'd pack a lunch."
+    ],
+    "dusk": [
+      "In the old tales, the wolves come at sundown. Now it's the takeaway driver.",
+      "I rode off into the sunset once. Had to come back for my keys.",
+      "I've watched ten thousand sunsets. They never get old. I do.",
+      "The young nads are off to the tavern. I'm nine hundred. My hip said no."
+    ],
+    "night": [
+      "We stayed up this late for a snapshot once. You're watching a man fix a fridge.",
+      "gn. The ancients slept on their seed phrase, carved in stone. Terrible pillows.",
+      "I named every star up there. The last few thousand are all called star.",
+      "Put the phone down. I've said gn in eleven languages, three of them dead."
+    ]
+  },
+  "days": {
+    "monday": [
+      "I invented Mondays ages ago, as a joke. Somehow they caught on."
+    ],
+    "tuesday": [
+      "In nine centuries, nothing has ever happened on a Tuesday. Not even a red candle."
+    ],
+    "wednesday": [
+      "Every saga has a swampy middle bit, and it's always a Wednesday. Wear boots."
+    ],
+    "thursday": [
+      "Every Thursday for a thousand years, peasants have asked wen weekend. I always say two weeks."
+    ],
+    "friday": [
+      "One Friday, I went to the tavern and woke up a century later. With a rare trait."
+    ],
+    "saturday": [
+      "That laundry pile has stood since the old kingdoms. It's now a heritage site, open Saturdays."
+    ],
+    "sunday": [
+      "Every Sunday I retell the tale of my first jpeg. Each week, it gets rarer."
+    ]
+  },
+  "weather": {
+    "clear": [
+      "Perfect weather to touch grass, an ancient rite. I've done it twice."
+    ],
+    "cloud": [
+      "The gods are sulking behind the clouds. Somebody must have rugged them."
+    ],
+    "rain": [
+      "I once marched forty days through a storm to a Monad meetup. Cancelled, due to rain."
+    ],
+    "snow": [
+      "I crossed frozen peaks for the first allowlist. In this snow, I'm not going out for milk."
+    ],
+    "fog": [
+      "Heroes vanish in fog like this. Usually to avoid a meeting."
+    ],
+    "wind": [
+      "A gust like this stole my whitepaper in the year six hundred. Nobody's noticed."
+    ],
+    "hot": [
+      "Heat like this melted my first cold wallet. It was a block of ice."
+    ],
+    "cold": [
+      "Call this cold? I survived a whole bear market in one sock."
+    ]
+  },
+  "events": {
+    "meeting": {
+      "ahead": [
+        "I once sat in a council meeting for three winters. Could've been a scroll.",
+        "I've survived sieges shorter than a quick sync. With fewer casualties.",
+        "Hear ye. {event} at {when}. Brave warriors have died in meetings, mostly of the agenda."
+      ],
+      "soon": [
+        "My first governance meeting was about a fence. Six centuries later, still no fence.",
+        "Camera on. {event} is {soon}. The council deserves better than your pfp."
+      ],
+      "peek": [
+        "Nod gravely, say circle back, and rule for a thousand years."
+      ]
+    },
+    "big": {
+      "ahead": [
+        "Today's your dragon. I faced mine with a sword and pure hopium. You have slides.",
+        "Big trial today. Every hero I know was terrified. One was sick in his helmet.",
+        "This is the trial: {event} at {when}. Kings were easier. They never asked follow-up questions."
+      ],
+      "soon": [
+        "Deep breath for the big one. I shook before my first battle too. It was a goose.",
+        "The prophecy says you'll be magnificent. {event} is {soon}. I wrote it this morning."
+      ],
+      "peek": [
+        "I'm bullish on you. The bards have also prepared a sad version."
+      ]
+    },
+    "focus": {
+      "ahead": [
+        "The pyramids took decades of focus. Longer, if they'd had a Discord.",
+        "Focus work today. I spent forty years reading the first whitepaper. Still on page two.",
+        "Monks I knew took vows of silence. {event} from {when}. Try a vow of airplane mode."
+      ],
+      "soon": [
+        "Guard your focus as dragons guard gold. Lie on your phone.",
+        "Close the timeline. {event} is {soon}. There's been no alpha on it since the Romans."
+      ],
+      "peek": [
+        "The old devs called this building. It was mostly staring."
+      ]
+    },
+    "health": {
+      "ahead": [
+        "I've faced armies without flinching. I flinch at the paper on the doctor's chair.",
+        "My first doctor cured FOMO with two leeches. It worked.",
+        "A health quest: {event} at {when}. They'll ask how much you drink. Legends round down."
+      ],
+      "soon": [
+        "Nearly time for the appointment. The waiting room is older than me. So are the magazines.",
+        "Courage. {event} is {soon}. Nine centuries, and the only real utility is the lollipop."
+      ],
+      "peek": [
+        "Don't DYOR your symptoms. Last time, I diagnosed myself as a werewolf."
+      ]
+    },
+    "workout": {
+      "ahead": [
+        "I trained for centuries carrying my bags. Incredible grip, tiny legs.",
+        "Stretch first. I pulled a sword from a stone cold once. My back's never forgiven me.",
+        "Into the arena: {event} at {when}. Warriors of old trained in chainmail. You're allowed shorts."
+      ],
+      "soon": [
+        "I once ran a marathon to deliver urgent news. It was a typo.",
+        "I said LFG at the gym once. {event}, {soon}. Pulled something ancient."
+      ],
+      "peek": [
+        "Every legend has calves. Few understand mine."
+      ]
+    },
+    "food": {
+      "ahead": [
+        "Savour every bite. One long winter, the whole clan shared a sandwich. I got the crust.",
+        "Eating out today. By ancient law, the last dumpling goes to the eldest. That's me.",
+        "A feast: {event} at {when}. Kings threw feasts in my honour. Then we split the bill."
+      ],
+      "soon": [
+        "My ancestors hunted mammoths for a meal. You get a menu with pictures.",
+        "Order boldly. {event} is {soon}. The bards never sang of the side salad."
+      ],
+      "peek": [
+        "Eat like a legend. Slowly, and from other people's plates."
+      ]
+    },
+    "social": {
+      "ahead": [
+        "Going out today. Keep your story short. Mine takes nine nights and a harp.",
+        "Big night ahead. I once danced for a week at a royal wedding. Still banned.",
+        "Mark it: {event} at {when}. Don't tell them how you found Monad. My version cleared a tavern."
+      ],
+      "soon": [
+        "Going out soon. Stay mysterious. I've gone centuries without being doxxed, mostly because nobody asked.",
+        "Hear me. {event}, {soon}. Dance as the degens of old danced: badly, and for far too long."
+      ],
+      "peek": [
+        "Wagmi, as the old songs say. Assuming someone drives."
+      ]
+    },
+    "family": {
+      "ahead": [
+        "Every family has its ancient feud. Ours is about a lasagne.",
+        "Every great dynasty starts with a testnet. Usually the eldest.",
+        "Family business: {event} at {when}. Our recipes were passed down by whisper. We now make toast."
+      ],
+      "soon": [
+        "Your aunt will ask what you do for work. Don't say degen.",
+        "Bring cake. {event} is {soon}. I've ended three wars with a lemon drizzle."
+      ],
+      "peek": [
+        "The oldest tribe there is. They've had you doxxed since birth."
+      ]
+    },
+    "errand": {
+      "ahead": [
+        "A thousand roadmaps promised me utility. Not one of them did the shopping.",
+        "I popped out for one thing, came back a decade later. Without it.",
+        "Today's quest: {event} at {when}. Heroes fall to small quests. Mine was a queue for stamps."
+      ],
+      "soon": [
+        "Take a list. Heroes who trusted their memory came home with three lemons.",
+        "Off you go. {event} is {soon}. At last, a roadmap that actually delivers."
+      ],
+      "peek": [
+        "Bread, milk, bin liners. The fundamentals haven't changed since the Vikings."
+      ]
+    },
+    "travel": {
+      "ahead": [
+        "Travelling today. Long ago, that took a season and a very rude donkey.",
+        "I crossed oceans with one bag. You need three for a weekend away.",
+        "The road calls: {event} at {when}. Every epic starts with one step. Then airport security."
+      ],
+      "soon": [
+        "Leave for your trip now. I once missed the ark by four minutes. Long swim.",
+        "Pack your passport. {event} is {soon}. Customs won't take a pfp, I've tried."
+      ],
+      "peek": [
+        "Every saga needs a journey. Yours has a snack trolley."
+      ]
+    },
+    "rest": {
+      "ahead": [
+        "I napped through a whole crypto winter. Woke up bullish.",
+        "A day of rest. The gods only took one. Amateurs.",
+        "I'll keep watch, as I did at the first snapshot. {event} from {when}. Slept through it."
+      ],
+      "soon": [
+        "Doing nothing is an ancient art. I'm a grand master.",
+        "Close the laptop. {event} is {soon}. Civilisation survived nine thousand years without your emails."
+      ],
+      "peek": [
+        "The ancient way: horizontal, unbothered, faintly snoring."
+      ]
+    },
+    "other": {
+      "ahead": [
+        "Plans today. I'd DYOR, but in my day we just asked a goat.",
+        "Something on today. The prophecy mentioned it. It said, and I quote, something.",
+        "Ah, {event} at {when}. Sounds like probably nothing. That's what they said about fire."
+      ],
+      "soon": [
+        "Nearly time. Whatever it is, the stars are bullish on you. Broadly.",
+        "A mystery. {event}, {soon}. Few understand it, and I'm not one of the few."
+      ],
+      "peek": [
+        "Ah yes. I knew its grandfather."
+      ]
+    }
+  },
+  "pokes": {
+    "hat": {
+      "any": [
+        "Easy. This head has worn three crowns and one seagull.",
+        "Careful up there. That's where the ancient wisdom lives. It's mostly lyrics.",
+        "You poked an elder on the head. That's how the last ice age started."
+      ],
+      "beanie": [
+        "Easy on the beanie. Knitted in the first bear market. Nothing else was happening.",
+        "Not the beanie. A witch knitted it for me. My aunt, technically."
+      ],
+      "cap": [
+        "Mind the cap. Worn backwards since the first testnet. Still cool.",
+        "Not the cap. It's the one thing I own that's never been rekt."
+      ],
+      "crown": [
+        "Careful. The crown came with a castle. The castle is still vesting.",
+        "Nobody airdrops a crown. This took three winters and a biscuit ceremony."
+      ],
+      "horns": [
+        "Mind the horns. They grew the year I went bearish. Stress, the doctor said.",
+        "Not the horns. Long ago, a whole army hung their coats on these."
+      ],
+      "helmet": [
+        "The helmet has stopped spears, arrows and an entire summer of FUD.",
+        "Knock all you like. Nobody's in. Out on a quest, back in two weeks."
+      ],
+      "hair": [
+        "Not the hair. This style was fashionable once, briefly, during a plague.",
+        "Easy. One good hair day a century, and this is my ATH."
+      ],
+      "band": [
+        "The headband stays. I wore it to the first Olympics. As a spectator.",
+        "Don't touch the headband. The knot has held for centuries. Never once paper hands."
+      ],
+      "hat": [
+        "I tip this hat for no king and no whale. Once, for a pie.",
+        "Under this hat is my seed phrase. I've forgotten which hat."
+      ],
+      "odd": [
+        "That was a rare trait once. Now I wear it to the shops.",
+        "Yes, I know. A wizard cursed me. Or I lost a bet."
+      ],
+      "none": [
+        "Bare head. Nothing up there but old wisdom, a little alpha and a draught.",
+        "Bald? By choice. The dragon's choice."
+      ]
+    },
+    "face": {
+      "any": [
+        "That face has watched empires rise and fall. Mostly fall.",
+        "Poking a legend's pfp? Once, that meant a duel. Now I just sigh.",
+        "Easy. This face was on a coin once. It rugged in a week."
+      ],
+      "glasses": [
+        "These glasses have seen every ATH in history. Both of them.",
+        "Mind the glasses. I need them to see the future. Also the menu."
+      ],
+      "sleepy": [
+        "These eyes have seen everything. Now they'd like to see a pillow.",
+        "Gently. I haven't slept since the printing press. Very exciting week."
+      ],
+      "smiling": [
+        "These eyes shut when Rome fell. Haven't needed them since. Few understand.",
+        "I smile with my eyes shut. I've seen every bull run already."
+      ],
+      "wide": [
+        "My eyes went this wide when I saw my first whale. They stayed.",
+        "Yes, the eyes. I've seen wars, plagues and gas fees. Gas fees did this."
+      ],
+      "narrow": [
+        "This squint is from reading every roadmap by candlelight. They all said soon.",
+        "Suspicious? Always. I've been promised two weeks for eleven centuries."
+      ]
+    },
+    "collar": {
+      "any": [
+        "Mind the outfit. It's seen more cycles than a laundromat.",
+        "Don't tug. This outfit has been in fashion twice, both times by accident.",
+        "Unhand me. I've thrown kings into rivers for less. Small kings."
+      ],
+      "suit": [
+        "I wore this suit to the first allowlist party. I was the list.",
+        "Don't crease the suit. It's been to three coronations and one very bad wedding."
+      ],
+      "costume": [
+        "Yes, it's a costume. Four bear markets ago, this was formal wear.",
+        "I wore this to the genesis party. Nobody told me it ended."
+      ],
+      "hoodie": [
+        "The devs I knew all lived in hoodies. Some still do. Same hoodie.",
+        "Leave the hood. It went up at the first red candle. Never came down."
+      ],
+      "tee": [
+        "This shirt was the first airdrop in history. One size. Fits nobody.",
+        "This tee predates cotton. It's held together by pure conviction."
+      ],
+      "robe": [
+        "This robe is ceremonial. I wear it for sagas and the bins.",
+        "Careful with the robe. It's a true one of one. Very itchy."
+      ],
+      "jacket": [
+        "There's ancient alpha in these pockets. Also a toffee from the first crusade.",
+        "This jacket was a gift from a king. He wants it back. Ngmi."
+      ],
+      "armor": [
+        "This armour has survived sieges, floods and three house moves.",
+        "This armour stopped a hundred arrows and one very determined rug pull."
+      ],
+      "none": [
+        "Nothing on. I came into this world with nothing, and I've kept the theme.",
+        "No outfit. I'm dressed exactly as I was minted."
+      ]
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "archetype": "night-shift",
+  "intro": [
+    "Pleasure. I've been awake since Tuesday. It isn't Tuesday.",
+    "I'm your night shift. Somebody has to sit up with the jpegs.",
+    "Sleep's on my roadmap. It's been two weeks away for three years."
+  ],
+  "ring": [
+    "Pick up. I'm calling from the carpet.",
+    "It's me. I'm so sorry.",
+    "Awake against my will. Now so are you."
+  ],
+  "wake": [
+    "Your turn. I'm off. The charts are on a low simmer, stir occasionally.",
+    "You're up. I stared at a red candle all night. The candle won.",
+    "Shift change. You get up, I claim the warm patch you just left.",
+    "Get up slowly. Sudden movements are for people who slept.",
+    "gm. I've been saying it since three. It's finally accurate.",
+    "{Name}gn. Sorry, wrong one. I haven't finished yesterday.",
+    "You go. {event} at {when}. I'll stay here and guard your pillow with my face.",
+    "Busy one. {event} at {when}. I've filed it under things that happen to other people."
+  ],
+  "snooze": [
+    "Finally, someone on my side. The pillow side.",
+    "You folded on the alarm. Paper hands. I've never been prouder.",
+    "Go back under, fren. I'll tell them I tried.",
+    "Good. I'm bullish on this nap. Wake me never.",
+    "Nine more minutes? I'll ape in. Shove over.",
+    "Nobody saw that. I was the only witness, and I'm asleep."
+  ],
+  "voicemail": [
+    "I'll lie on the floor until you call back. I was already there.",
+    "Straight to voicemail. If you're napping, I respect the conviction.",
+    "Tried you once. That's my cardio for the day. Bye.",
+    "Hey. Charts are red, I'm horizontal, you're missing. Average night.",
+    "Quick alpha. {event} at {when}. That was all my energy.",
+    "I called, you didn't. {event} is {soon}. I'll nap about it."
+  ],
+  "absence": [
+    "I didn't move once while you were gone. Not loyalty. Couldn't.",
+    "Gone for hours? I slept for twenty minutes of it. New ATH.",
+    "Welcome back. I refreshed the chart four hundred times. It never once refreshed me.",
+    "I kept watch the whole time. Nothing happened, and I saw all of it."
+  ],
+  "owner": [
+    "You own me, on-chain. I'd take a bullet for you. After a nap.",
+    "I live in your cold wallet now. Dark, quiet, never opened. Home.",
+    "Owners get my good eye. {event} at {when}. The other eye's asleep."
+  ],
+  "stranger": [
+    "Not on my allowlist. Come in, but quietly. I've just got the blanket right.",
+    "Just browsing? Same. I've been browsing the floor since two.",
+    "Visiting? {event} at {when} is your business, ser. Mine is lying down."
+  ],
+  "recall": [
+    "You snoozed {snoozes}. I'm not judging. I'm jealous.",
+    "You skipped {skipped}. Welcome to the night shift, fren. We don't go to things.",
+    "You told me {fact}. I thought about it at four this morning. Twice.",
+    "That's {streak} in a row. Finally, something in my life that's up only.",
+    "You're {habit}. I'm a blanket with eyes. We make it work."
+  ],
+  "now": [
+    "It's starting now, go. I'm yelling LFG on the inside. The outside is a duvet.",
+    "Eyes open. {event}, now. Both of them, ideally."
+  ],
+  "calendarFree": [
+    "Nothing on {day}. I've pencilled in a nap and a stealth nap.",
+    "Empty {day}. No plans. The only roadmap I've ever trusted."
+  ],
+  "time": {
+    "dawn": [
+      "The sun's pumping. I'm dumping myself into bed.",
+      "Birds are up. I'm still up. Only one of us is singing.",
+      "It's light out. I've said gn. My eyes have not been informed.",
+      "The first train's running. I'm on my last legs."
+    ],
+    "morning": [
+      "Too bright, too loud, too many people saying gm and meaning it.",
+      "Morning people. DYOR. I did, and they're not real.",
+      "Curtains shut, phone dimmed, a sock over each eye. Morning handled.",
+      "I'm on my fourth coffee and my first blink."
+    ],
+    "day": [
+      "It's the afternoon. I'm technically asleep. You're in my dream, and you're late to the mint.",
+      "The sun's up. Gas fees are up. I'm not.",
+      "Your lunchtime is my midnight. I'm having cereal and copium.",
+      "If number go up, wake me. If it goes down, I was never here."
+    ],
+    "dusk": [
+      "It's dusk, so I'm opening my eyes. Halfway. Fully is for a bull run.",
+      "The sun's clocking off already. Twelve hours. Lightweight.",
+      "Street lights on. That's my alarm. I snoozed it twice.",
+      "The day people log off and the degens log on. Same snacks, worse posture."
+    ],
+    "night": [
+      "Just me, a whale alert, and a kebab that understands me.",
+      "Still up? Few understand. Fewer are wearing trousers.",
+      "{Name}go to bed. I'll stay up and worry for both of us.",
+      "Late night. Nothing's moving except the gas fees and my left eyelid."
+    ]
+  },
+  "days": {
+    "monday": [
+      "Everyone's back to building. I'm building a blanket fort. Mondays can't get in."
+    ],
+    "tuesday": [
+      "Nobody's bullish on a Tuesday. Not even Tuesday."
+    ],
+    "wednesday": [
+      "The week's in the dip, and so am I. Up to my eyelids."
+    ],
+    "thursday": [
+      "It's almost Friday if you squint. I'm always squinting."
+    ],
+    "friday": [
+      "The degens go out tonight. I go out to the fridge."
+    ],
+    "saturday": [
+      "You get a lie in, I get a lie down. Then another."
+    ],
+    "sunday": [
+      "Monad doesn't do days off. I do them professionally."
+    ]
+  },
+  "weather": {
+    "clear": [
+      "Not a single cloud to hide behind. Bearish."
+    ],
+    "cloud": [
+      "The sky's dimmed the lights for me. Thoughtful."
+    ],
+    "rain": [
+      "Take an umbrella. I'll be in bed, enjoying the rain on your behalf."
+    ],
+    "snow": [
+      "Everyone's hibernating. Finally, a bear market I can get behind."
+    ],
+    "fog": [
+      "Fog outside, fog in my head. For once, we match."
+    ],
+    "wind": [
+      "A bin rolled past the window at three. It had more energy than me."
+    ],
+    "hot": [
+      "Too hot to sleep. As if I needed another reason."
+    ],
+    "cold": [
+      "I'm a duvet burrito in cold storage. Do not unroll."
+    ]
+  },
+  "events": {
+    "meeting": {
+      "ahead": [
+        "Camera off in that meeting. Nobody needs to see what a night shift does to a face.",
+        "If you nod off in the meeting, turn it into nodding along. Nobody can tell.",
+        "I'll attend as my pfp. {event} at {when}. Muted, lying down."
+      ],
+      "soon": [
+        "Find the mute button now. My last yawn got minuted.",
+        "Camera check, {event} is {soon}. Lamp on, hair flat, eyes open, pick two."
+      ],
+      "peek": [
+        "Look bullish. I've practised for years and my face is still bearish."
+      ]
+    },
+    "big": {
+      "ahead": [
+        "I stayed up for your big day. Then again, I stay up for everything.",
+        "Look calm, panic quietly. That's how I watch the dip.",
+        "Practising my faces. {event} at {when}. My serious face and my wagmi face are the same face."
+      ],
+      "soon": [
+        "Nearly time. Shoulders down. You've prepared more than I've slept.",
+        "I'd stake everything on you. {event} is {soon}. Everything is two naps."
+      ],
+      "peek": [
+        "Wagmi. I'm too tired to lie."
+      ]
+    },
+    "focus": {
+      "ahead": [
+        "Curtains shut, one lamp, no messages. You'll look like me by teatime.",
+        "Work like it's three in the morning. Quiet, alone, slightly haunted.",
+        "Do one thing at a time. {event} from {when}. I can barely do one."
+      ],
+      "soon": [
+        "Phone in a drawer, bags in a drawer, me in a drawer.",
+        "Head down, {event} is {soon}. Mute the timeline. It'll still be screaming later."
+      ],
+      "peek": [
+        "Lights low, door shut, FOMO on silent."
+      ]
+    },
+    "health": {
+      "ahead": [
+        "If they ask about the bags under your eyes, say they're long-term holds.",
+        "They'll tell you to get more sleep. I've read the whitepaper.",
+        "They'll shine a light in your eyes. {event} at {when}. Be brave, I can't."
+      ],
+      "soon": [
+        "Almost your turn. Sit still and say ah. I can manage one of those.",
+        "Phone away, {event} is {soon}. Leave the symptom googling to me, I do it nightly."
+      ],
+      "peek": [
+        "Be honest about your sleep. Unlike me."
+      ]
+    },
+    "workout": {
+      "ahead": [
+        "I did a sit up once. Well, I sat up.",
+        "You'll be sore tomorrow. I'm already rekt, from lying down wrong.",
+        "LFG. {event}, from {when}. I'm saying it lying down."
+      ],
+      "soon": [
+        "Trainers on. My workout is rolling over. I've done four sets.",
+        "Stretch first. {event} is {soon}. Last time I stretched, I pulled a yawn."
+      ],
+      "peek": [
+        "Lift something heavy. I'll be lifting the duvet, slightly."
+      ]
+    },
+    "food": {
+      "ahead": [
+        "Real food today. I've been living on crisps and hopium.",
+        "Food plans today. Get dessert. Pudding has never once rugged me.",
+        "Eat a vegetable. {event} around {when}. It's the only green candle you'll see this week."
+      ],
+      "soon": [
+        "Sit down to eat. I eat standing up, lit by the fridge.",
+        "Eat slowly, then nap. {event} is {soon}. That's the whole roadmap."
+      ],
+      "peek": [
+        "Use a plate. Mine's a keyboard."
+      ]
+    },
+    "social": {
+      "ahead": [
+        "Out with people today. Still up at three? Congratulations, you're a degen.",
+        "If someone explains their bags, nod off. It works.",
+        "Go. {event} from {when}. My whole social life is two nads and a fox."
+      ],
+      "soon": [
+        "Keys, phone, the good jacket. You'll be the best rested one there. Rare trait.",
+        "Go have fun. {event} is {soon}. Stay late, the alpha comes out after midnight."
+      ],
+      "peek": [
+        "Stay out late. Come home looking like me."
+      ]
+    },
+    "family": {
+      "ahead": [
+        "An aunt will ask if you're sleeping enough. Say yes, hold eye contact.",
+        "Take every leftover. The only airdrop that's never been a scam.",
+        "Someone will say you look tired. {event} at {when}. Say you get it from me."
+      ],
+      "soon": [
+        "Don't nap on their sofa. You'll wake up in a family photo.",
+        "Be patient, {event} is {soon}. They did night shift for years. Unpaid."
+      ],
+      "peek": [
+        "Phone down. They knew you before your pfp."
+      ]
+    },
+    "errand": {
+      "ahead": [
+        "Daylight, small talk, a queue. Every horror in one trip.",
+        "I do my chores at the all night shop. The cashier and I are frens.",
+        "Bad news. {event} by {when}. I'd help, but the sun's out, and we have history."
+      ],
+      "soon": [
+        "Bring a bag. I always forget and carry everything home in my hood.",
+        "Go as you are, nobody looks. {event} is {soon}. I've tested it in slippers."
+      ],
+      "peek": [
+        "Brief exposure to daylight. DYOR."
+      ]
+    },
+    "travel": {
+      "ahead": [
+        "Jet lag is just my lifestyle with a boarding pass.",
+        "Travelling today. Find the ones asleep at the gate. Those are my nads.",
+        "Get the window seat. {event} at {when}. Every lit window you pass is someone like me."
+      ],
+      "soon": [
+        "Leaving soon. Keys, charger, passport. I'll watch the house through my eyelids.",
+        "Text me when you land, I'll be up. {event} is {soon}. Up only, sadly."
+      ],
+      "peek": [
+        "Nap on the way. That's not lazy, that's logistics."
+      ]
+    },
+    "rest": {
+      "ahead": [
+        "I've turned up early to one thing in my life. A rest day.",
+        "Stake yourself on the sofa. Rewards paid in naps.",
+        "I'm all in. {event} from {when}. Wake me when it's done vesting."
+      ],
+      "soon": [
+        "Phone on silent, me included. Especially me.",
+        "Curtains shut, {event} is {soon}. gn at lunchtime, my favourite kind."
+      ],
+      "peek": [
+        "Doctor's orders. I'm not a doctor, I'm just tired."
+      ]
+    },
+    "other": {
+      "ahead": [
+        "Something on today. No idea what. I've stayed up for less.",
+        "Mystery plans today. I'm too tired to ask. Probably nothing.",
+        "I read your calendar three times. {event} around {when}. Fell asleep twice."
+      ],
+      "soon": [
+        "Your thing's soon. Walk in like you're on the allowlist.",
+        "Proud of you. {event} is {soon}, whatever it is. Vaguely proud, from under a blanket."
+      ],
+      "peek": [
+        "Sounds daytime. Count me out."
+      ]
+    }
+  },
+  "pokes": {
+    "hat": {
+      "any": [
+        "That's my head. Gently. It's running on a nap from last Thursday.",
+        "You poked my head. I felt that through four layers of tired.",
+        "Easy up there. That's where I keep my one remaining thought. It's about bed."
+      ],
+      "beanie": [
+        "Careful. The beanie keeps my last two brain cells warm. Both ngmi.",
+        "Pull the beanie down over my eyes. Sorry, that was a request."
+      ],
+      "cap": [
+        "The cap stays on. Your ceiling light is a tiny sun with no manners.",
+        "Poke the cap again and the brim comes down. Logging off, ser."
+      ],
+      "crown": [
+        "Careful with the crown. Heavy is the head that hasn't slept.",
+        "The crown's a rare trait. Rarer still, eight hours of sleep."
+      ],
+      "horns": [
+        "Mind the horns. I grew them in a bear market. They're mostly stress.",
+        "Don't tug the horns. They're the only part of me with energy."
+      ],
+      "helmet": [
+        "Knock all you like. The helmet's rated for falling asleep on a keyboard.",
+        "The helmet only opens a slit. So do my eyes."
+      ],
+      "hair": [
+        "Leave the hair. Pillow flattened one side, headset flattened the other. Balanced.",
+        "You messed up the hair. Fine, it was already rekt."
+      ],
+      "band": [
+        "Don't touch the headband. It's holding my face up.",
+        "My headband says LFG. I only wear it to bed."
+      ],
+      "hat": [
+        "Mind the hat. I only tip it to whales and the night bus driver.",
+        "The hat's my disguise. Daylight's been looking for me for years."
+      ],
+      "odd": [
+        "Don't ask about the thing on my head. It was four in the morning.",
+        "The thing on my head? Rare trait. Day people stare, night people nod."
+      ],
+      "none": [
+        "Bare head. I tried hats. They fell off every time I nodded off.",
+        "No hat. Hats are for people who touch grass."
+      ]
+    },
+    "face": {
+      "any": [
+        "That's my face. Lit by the timeline since midnight. Slightly blue.",
+        "Boop received. Processing at night shift speed. Expect a reaction in two weeks.",
+        "Right in the eye. I'd react, but it's not my shift."
+      ],
+      "glasses": [
+        "Careful, the glasses. They watched the floor all night. They need a lie down.",
+        "Tap the glasses again and I'll switch to night mode. My only mode."
+      ],
+      "sleepy": [
+        "These eyes are open. Fully. This is fully.",
+        "Poke again and the eyes close one more notch. I've got one left."
+      ],
+      "smiling": [
+        "Smiling with my lids down. Not asleep. Just at peace with the dip.",
+        "Happy face. Closed for business. Wake me for the bull run."
+      ],
+      "wide": [
+        "That's not excitement. I saw a green candle. I'm frightened.",
+        "Wide eyes. I've had six coffees and I can hear the fridge thinking."
+      ],
+      "narrow": [
+        "The squint isn't suspicion. It's your lighting.",
+        "I'm not glaring. This is my resting face. Emphasis on resting."
+      ]
+    },
+    "collar": {
+      "any": [
+        "Mind the outfit. I haven't taken it off since the last ATH. Years.",
+        "That's not a snooze button. I checked, many times, around dawn.",
+        "This outfit? Slept in it. Mostly sitting up."
+      ],
+      "suit": [
+        "The suit? Dress for the bull run you want.",
+        "You creased the suit. It's for meeting the devs. They never show."
+      ],
+      "costume": [
+        "Yes, the costume. Wore it to a mint party. Too tired to change.",
+        "The costume's warm and ridiculous. At four in the morning, nobody judges."
+      ],
+      "hoodie": [
+        "The hoodie is my office, my bed, and my curtains.",
+        "Hoodie rules. Hood up, off duty. Hood down, also off duty."
+      ],
+      "tee": [
+        "The tee says wagmi. I'd agree, but I can't make it to the kitchen.",
+        "This tee has been slept in so often it now counts as bedding."
+      ],
+      "robe": [
+        "The robe is formal pyjamas. Black tie, but for lying down.",
+        "Two pockets on this robe. Snacks and copium. Both empty."
+      ],
+      "jacket": [
+        "The jacket's for the walk to the all night garage. For crisps.",
+        "That jacket has seen things. Three rug pulls and a fox."
+      ],
+      "armor": [
+        "I sleep in the armour. Uncomfortable, but sunlight bounces off.",
+        "Stop tapping the armour. I was finally asleep. First time since testnet."
+      ],
+      "none": [
+        "Nothing on. Fully doxxed. Luckily, only the fox is awake.",
+        "No outfit. I fell asleep halfway through getting dressed. Last week."
+      ]
+    }
+  }
+}

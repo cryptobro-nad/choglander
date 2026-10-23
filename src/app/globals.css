@@ -1,0 +1,163 @@
+@import "tailwindcss";
+
+/* Inter and Fraunces come from next/font in layout.tsx, as --font-inter and --font-fraunces on <html>. */
+@theme inline {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-fraunces), Georgia, "Times New Roman", serif;
+  --color-ink: #1d2340;
+  --color-muted: #6a7398;
+  --color-paper: #fffdfb;
+  --color-lilac: #4a55c9;
+}
+
+/* Base rules live in the base layer so Tailwind utilities (font-serif, text-[28px]) still win. */
+@layer base {
+  * { box-sizing: border-box; }
+  html { color-scheme: light; }
+  html, body { height: 100%; }
+  html, body, .no-scrollbar { scrollbar-width: none; }
+  html::-webkit-scrollbar,
+  body::-webkit-scrollbar,
+  .no-scrollbar::-webkit-scrollbar { width: 0; height: 0; display: none; }
+  body {
+    margin: 0;
+    font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+    color: #1d2340;
+    background: #c9d4ee;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  button, input, textarea, select { font-family: inherit; color: inherit; }
+  /* 16px keeps iOS from zooming the page when a field takes focus. */
+  input, textarea, select { font-size: 16px; }
+  button { cursor: pointer; touch-action: manipulation; }
+  ::selection { background: #d9d6ff; }
+  input::placeholder, textarea::placeholder { color: #8a91b0; opacity: 1; }
+}
+
+.pt-safe { padding-top: max(18px, env(safe-area-inset-top)); }
+.pb-safe { padding-bottom: max(16px, env(safe-area-inset-bottom)); }
+
+nextjs-portal { display: none !important; }
+
+@keyframes call-pulse {
+  0% { box-shadow: 0 0 0 0 rgba(31, 138, 76, 0.45); }
+  70% { box-shadow: 0 0 0 18px rgba(31, 138, 76, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(31, 138, 76, 0); }
+}
+.call-pulse { animation: call-pulse 1.6s ease-out infinite; }
+
+/* The answer button shakes like a phone ringing on a table: two quick shakes, then a rest. */
+@keyframes call-wiggle {
+  0%, 40%, 100% { transform: rotate(0deg); }
+  5%, 15%, 25% { transform: rotate(-14deg); }
+  10%, 20%, 30% { transform: rotate(14deg); }
+}
+.call-wiggle { animation: call-wiggle 1.6s ease-in-out infinite; }
+
+@keyframes drift {
+  from { transform: translateX(-6vw); }
+  to { transform: translateX(8vw); }
+}
+@keyframes rain {
+  from { transform: translateY(-20%); }
+  to { transform: translateY(120%); }
+}
+@keyframes twinkle {
+  50% { opacity: 0.35; }
+}
+
+.cloud {
+  position: absolute;
+  border-radius: 999px;
+  background: radial-gradient(closest-side, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0.32) 55%, rgba(255, 255, 255, 0) 100%);
+  animation: drift 70s linear infinite;
+  pointer-events: none;
+}
+.raindrop {
+  position: absolute;
+  width: 1px;
+  height: 14px;
+  background: rgba(255, 255, 255, 0.45);
+  animation: rain 1.1s linear infinite;
+}
+.star {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  border-radius: 99px;
+  background: white;
+  animation: twinkle 3.4s ease-in-out infinite;
+}
+
+@keyframes chog-bob {
+  0%, 100% { transform: translate3d(0, 0, 0); }
+  50% { transform: translate3d(0, -5px, 0); }
+}
+.chog-bob { animation: chog-bob 2.8s ease-in-out infinite; }
+
+/* A slow breath on a still arch, so the Chog reads as alive between lines. Origin at the base,
+   like a chest rising, and small enough that the engine's own bob and tilt stay in charge. */
+@keyframes chog-breathe {
+  0%, 100% { transform: translate3d(0, 0, 0) scale(1); }
+  45% { transform: translate3d(0, -2px, 0) scale(1.014, 1.02); }
+}
+.chog-breathe { animation: chog-breathe 5.2s cubic-bezier(0.45, 0, 0.35, 1) infinite; transform-origin: 50% 100%; }
+
+/* A small perk when tapped: squash, then settle. Restart it by re-keying the element. */
+@keyframes chog-perk {
+  0% { transform: scale(1); }
+  30% { transform: scale(0.95, 1.04); }
+  65% { transform: scale(1.03, 0.98); }
+  100% { transform: scale(1); }
+}
+.chog-perk { animation: chog-perk 0.5s cubic-bezier(0.3, 0.7, 0.4, 1) both; transform-origin: 50% 100%; }
+
+/* A speech bubble that says its piece and leaves: in, hold about four seconds, out. */
+@keyframes bubble-life {
+  0% { opacity: 0; transform: translate3d(0, 8px, 0) scale(0.96); }
+  6% { opacity: 1; transform: translate3d(0, 0, 0) scale(1); }
+  84% { opacity: 1; transform: translate3d(0, 0, 0) scale(1); }
+  100% { opacity: 0; transform: translate3d(0, 4px, 0) scale(0.98); visibility: hidden; }
+}
+.bubble-life { animation: bubble-life 5.2s ease-out 0.35s both; transform-origin: 0 100%; }
+
+/* First paint: a demo Chog and one line until the app mounts its own <main>. */
+.chog-placeholder {
+  position: fixed;
+  inset: 0;
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 16px;
+  pointer-events: none;
+  transition: opacity 0.35s ease, visibility 0s linear 0.35s;
+}
+body:has(main) .chog-placeholder { opacity: 0; visibility: hidden; }
+@supports not selector(:has(*)) {
+  .chog-placeholder { animation: placeholder-out 0.4s ease 2.5s forwards; }
+}
+@keyframes placeholder-out {
+  to { opacity: 0; visibility: hidden; }
+}
+
+/* With "reduce motion" on, nothing loops, drifts or slides (framer-motion follows it too, see
+   MotionPrefs). A ringing arch or Answer button keeps a still green halo instead of the pulse, and a
+   speech bubble still leaves after its four seconds, fading where it stands. */
+@keyframes bubble-fade {
+  0% { opacity: 0; }
+  6% { opacity: 1; }
+  84% { opacity: 1; }
+  100% { opacity: 0; visibility: hidden; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .chog-bob, .chog-breathe, .chog-perk, .call-wiggle, .cloud, .raindrop, .star, .animate-pulse { animation: none; }
+  .call-pulse { animation: none; box-shadow: 0 0 0 6px rgba(31, 138, 76, 0.28); }
+  .bubble-life { animation-name: bubble-fade; }
+}
+
+/* Bottom room for a screen's last button: enough for its shadow, never less than the home bar. */
+.pb-step { padding-bottom: max(28px, calc(env(safe-area-inset-bottom) + 12px)); }

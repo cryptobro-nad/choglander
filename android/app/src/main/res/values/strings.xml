@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Choglander</string>
+    <string name="title_activity_main">Choglander</string>
+    <string name="package_name">com.chog.calls</string>
+    <string name="custom_url_scheme">com.chog.calls</string>
+</resources>

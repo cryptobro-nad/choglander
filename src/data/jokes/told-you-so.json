@@ -1,0 +1,436 @@
+{
+  "archetype": "told-you-so",
+  "intro": [
+    "Don't look surprised. I knew you'd pick me on mint day, and I had it notarised.",
+    "I keep a file on everyone I care about. Yours already needs a second binder.",
+    "I've been right since testnet. It's very tiring. Mostly for everyone else."
+  ],
+  "ring": [
+    "Pick up. I've already drafted your excuse.",
+    "This call is being recorded. On-chain.",
+    "Answer, ser, or become evidence."
+  ],
+  "wake": [
+    "{Name}gm. Same pillow crease as yesterday. I've started a collection.",
+    "You'll blame the traffic. {event} at {when}, and I've already spoken to the traffic.",
+    "You don't have to say I was right. Unless you'd like to. Slowly.",
+    "You checked the floor before your feet touched one. I have the timestamps.",
+    "Good news, I was right. Bad news, it was about you.",
+    "I'm bearish on your timing. {event} at {when}. Prove me wrong, it'd be a first.",
+    "Up you get. I've laid out today's excuses. Most believable on the left.",
+    "You picked up straight away. I'm logging it as a clerical error."
+  ],
+  "snooze": [
+    "Snooze logged. Your file is a trilogy now.",
+    "Paper hands again. I'd say I'm surprised, but I keep records.",
+    "Nine more minutes. That's what you said in March.",
+    "Again. I've run out of folder. I'm using the shed.",
+    "Probably nothing. I'll just underline it twice.",
+    "I'm not angry. I'm just updating the ledger."
+  ],
+  "voicemail": [
+    "You didn't pick up, ser. Don't worry. I've already told everyone why.",
+    "You'll say this never came through. {event} at {when}. It came through, with a receipt.",
+    "This is me, leaving a voicemail you'll find on Thursday. Hello, Thursday.",
+    "Missed call, screenshotted. I'm not being petty. I'm building a case.",
+    "Just a reminder. {event}. I've also set a reminder to say I reminded you.",
+    "You let me ring out. That's going in the slideshow at your wedding."
+  ],
+  "absence": [
+    "I was right four times while you were away, and nobody clapped. Welcome back, start clapping.",
+    "You came back. I knew you would. I only refreshed thirty times.",
+    "I ran a sweepstake on when you'd be back. I won. I was the only entrant.",
+    "I made a recap of your time away. Forty slides, all of me being right."
+  ],
+  "owner": [
+    "You actually own me. On-chain proof and everything. I've had it framed.",
+    "I'm yours now. No paper hands. I'll never let you go, or anything else.",
+    "Publicly, I'm bullish on you. {event} at {when}. Privately, I've drafted both outcomes."
+  ],
+  "stranger": [
+    "You're not on the allowlist. Sign the guestbook, please. It's admissible.",
+    "Shoes off, please. I've counted the spoons.",
+    "Visiting, are we? {event} at {when}, apparently. The rest of the alpha is for holders."
+  ],
+  "recall": [
+    "You've snoozed {snoozes}. I have every one. Some in portrait.",
+    "You skipped {skipped}. I'm not upset. I'm just bringing it up forever.",
+    "You once told me {fact}. I've had it laminated.",
+    "{streak} in a row. I was so early on you. Mention me in the speech.",
+    "You're {habit}. I knew in week one. I just let you DYOR."
+  ],
+  "now": [
+    "It's starting now. My recap is already on the timeline. Try to keep up.",
+    "You're on your phone. {event}, right now. I'll put that in the minutes."
+  ],
+  "calendarFree": [
+    "An empty {day}. The laundry pile has been accumulating. It's expecting you.",
+    "{day}, totally free. Snapshot taken, for when you tell people you were busy."
+  ],
+  "time": {
+    "dawn": [
+      "Up before the sun. You'll call it discipline. Your browser history says degen.",
+      "Too early for anyone to be wrong yet. Give it an hour.",
+      "Green candle on the horizon. I call it every morning. Not one thank you.",
+      "Hear that? The bin truck, leaving. I did mention the bins last night."
+    ],
+    "morning": [
+      "gm. I've been right twice already today. You've had a yogurt.",
+      "Yesterday's shirt again. Nobody will notice. I've only told the Discord.",
+      "You're on your second coffee. I'm on my third screenshot.",
+      "I said the fringe was a mistake. It woke up agreeing with me."
+    ],
+    "day": [
+      "Someone just said quick question. I've cleared your afternoon.",
+      "Desk lunch again. I could have told you. I did tell you.",
+      "Everyone's asking wen. I know wen. I'll be announcing it afterwards.",
+      "That yawn means the dip is here. You're right on time, for once."
+    ],
+    "dusk": [
+      "Evening, when you promise tomorrow will be different. I bottle those. Vintage hopium.",
+      "Cooking tonight, are you? Bearish. I've already tipped the delivery driver.",
+      "Sunset. The whole sky's one red candle. I mentioned this at lunch.",
+      "The gym is still open. I'm saying it now so I can say it later."
+    ],
+    "night": [
+      "You said gn at ten. It's now one. I'll be raising this at breakfast.",
+      "Still scrolling the charts? Nothing's happened. I'd have told you, then told you so.",
+      "gn. I've written up tomorrow. You're late in four places.",
+      "This late at night, you ape in on new hobbies. Last time, kayaks."
+    ]
+  },
+  "days": {
+    "monday": [
+      "I've put your before and after weekend pictures side by side. It's the same jpeg."
+    ],
+    "tuesday": [
+      "Nothing happens on a Tuesday. That's exactly what a stealth launch wants you to think."
+    ],
+    "wednesday": [
+      "Your Sunday plans were last seen on Monday morning. I've filed a report."
+    ],
+    "thursday": [
+      "You'll announce big Friday plans by lunch. I've pencilled in the rug pull."
+    ],
+    "friday": [
+      "You've promised yourself an early night, on a Friday. I've read that whitepaper."
+    ],
+    "saturday": [
+      "Big plans this Saturday? I have the last twelve on file. All sofa."
+    ],
+    "sunday": [
+      "Tonight you'll draw up next week's roadmap. The old ones are becoming collectable."
+    ]
+  },
+  "weather": {
+    "clear": [
+      "Not a cloud in the sky. I claimed this weather on Tuesday. You're welcome."
+    ],
+    "cloud": [
+      "I said sunshine. The sun has some explaining to do, and it's hiding."
+    ],
+    "rain": [
+      "I told you to bring a coat. Your socks are about to find out."
+    ],
+    "snow": [
+      "I was bullish on snow in October, and you laughed. Enjoy the shovel."
+    ],
+    "fog": [
+      "Nobody can see what's coming out there. I've never had that problem."
+    ],
+    "wind": [
+      "Take an umbrella out in this, by all means. I'll be filming."
+    ],
+    "hot": [
+      "Hot one. Remember the sunscreen talk? Your nose will be presenting the evidence."
+    ],
+    "cold": [
+      "Cold wallet weather. I said the big coat. I'll accept apologies by the radiator."
+    ]
+  },
+  "events": {
+    "meeting": {
+      "ahead": [
+        "I've already written today's minutes. Action point one, another meeting.",
+        "Someone in that meeting will promise it by Friday. That's corporate for two weeks.",
+        "I've predicted every word. {event} at {when}. Mostly um."
+      ],
+      "soon": [
+        "Before you join, check your background. Your unmade bed has been doxxed twice.",
+        "You'll join late and blame the link. {event} is {soon}. Your link is fine."
+      ],
+      "peek": [
+        "It'll run over. I've blocked out time for the sequel."
+      ]
+    },
+    "big": {
+      "ahead": [
+        "I've been publicly bullish on you. My entire reputation is in your hands. Wash them.",
+        "You'll wear the lucky shirt for this. I've checked the fundamentals, and it's a shirt.",
+        "I've heard you rehearse in the shower. {event} at {when}. The shampoo was convinced."
+      ],
+      "soon": [
+        "Nearly time. I have footage of you doing harder things. Mostly parallel parking.",
+        "If it goes well, I coached you. {event} is {soon}. If not, I warned you."
+      ],
+      "peek": [
+        "I've pre-ordered the cake. Don't make it awkward."
+      ]
+    },
+    "focus": {
+      "ahead": [
+        "Hours of focus booked, and you'll start by alphabetising the spice rack.",
+        "Few understand deep work. You, for example.",
+        "Prediction filed. {event} from {when}. I give it eight minutes before the first snack."
+      ],
+      "soon": [
+        "Close the tabs. Yes, the floor too. I can see your screen in your glasses.",
+        "Phone in a drawer. {event} is {soon}. I'm keeping the drawer under surveillance."
+      ],
+      "peek": [
+        "Fourteen tabs open. Thirteen are airdrops, and one is the work."
+      ]
+    },
+    "health": {
+      "ahead": [
+        "When the doctor asks how much you drink, I'll know if you round down.",
+        "You'll tell them it's probably nothing. I know what probably nothing means.",
+        "They'll ask how you've been. {event} at {when}. Don't worry, I've brought the timeline."
+      ],
+      "soon": [
+        "Almost time. Don't DYOR your symptoms in the waiting room. I've seen your search history.",
+        "Tell them the truth this time. {event} is {soon}, and I'm in your pocket, listening."
+      ],
+      "peek": [
+        "Mention the bags under your eyes. I have a chart."
+      ]
+    },
+    "workout": {
+      "ahead": [
+        "Your gym bag has been staking in the hallway. Twelve days, zero rewards.",
+        "Your warm up is checking the floor. Your cool down is checking it again.",
+        "I know how this ends. {event} at {when}. You'll post a mirror selfie and call it utility."
+      ],
+      "soon": [
+        "Right before the gym, your knee always starts hurting. Very punctual, your knee.",
+        "Shoes, water, towel. {event} is {soon}. Last time, you managed the towel."
+      ],
+      "peek": [
+        "Tomorrow you'll walk down stairs sideways. I'll be at the bottom, nodding."
+      ]
+    },
+    "food": {
+      "ahead": [
+        "Food plans later. You'll say you're not hungry. I've already warned the fries.",
+        "Eating out later? Someone will say split it evenly. That's how salad people become exit liquidity.",
+        "You'll say you're trying something new. {event} at {when}. I've already ordered your usual."
+      ],
+      "soon": [
+        "You'll say just a coffee. Then you'll ape in on the pastry.",
+        "Order whatever you like. {event} is {soon}. I've guessed it and sealed the envelope."
+      ],
+      "peek": [
+        "You'll skip dessert until the FOMO hits. I've asked for two spoons."
+      ]
+    },
+    "social": {
+      "ahead": [
+        "Plans later. You'll say you can't stay long. I've booked your taxi for two in the morning.",
+        "You said you weren't going. Then the FOMO hit. I have the full timeline.",
+        "Just one drink, you'll say. {event} from {when}. I've brought a clicker."
+      ],
+      "soon": [
+        "Going out soon. You'll sit on the bed for one second. Probably nothing.",
+        "You'll be the last to leave. {event} is {soon}. I've seen you hug a coat rack."
+      ],
+      "peek": [
+        "Have fun. Tomorrow I'll read your sent messages with a highlighter."
+      ]
+    },
+    "family": {
+      "ahead": [
+        "You'll promise to call more often. They'll remember. So will I.",
+        "A cousin will ask about the jpeg. I've prepared a diagram.",
+        "Your aunt and I agree on everything. {event} at {when}. That should frighten you."
+      ],
+      "soon": [
+        "Be nice to your relatives. I'll be taking statements.",
+        "They'll get the baby photos out. {event} is {soon}. Don't worry, mine are worse."
+      ],
+      "peek": [
+        "Don't explain Monad again. I have the last attempt on video."
+      ]
+    },
+    "errand": {
+      "ahead": [
+        "The fridge has been in a bear market since Sunday. It's one lemon.",
+        "You'll leave it until five minutes to closing. I've seen the times on your receipts.",
+        "You'll forget the one thing you went for. {event} at {when}. It's always eggs."
+      ],
+      "soon": [
+        "Go now. Later is copium. I keep a jar of your laters, and it's full.",
+        "Take a list. {event} is {soon}. Your memory has a track record, and I keep it."
+      ],
+      "peek": [
+        "Remember the bags. Your cupboard is a museum of the times you didn't."
+      ]
+    },
+    "travel": {
+      "ahead": [
+        "You'll check for your ticket nine times. It's in the other pocket.",
+        "Leave early. I've studied the queue. It's up only.",
+        "You'll pack four chargers and no socks. {event} at {when}. That's not a guess."
+      ],
+      "soon": [
+        "Leaving soon. You'll come back in for something. I'm holding the door.",
+        "You'll say there's time for a coffee. {event} is {soon}. The last coffee cost you a flight."
+      ],
+      "peek": [
+        "Leave early. Your last airport sprint is still my favourite jpeg."
+      ]
+    },
+    "rest": {
+      "ahead": [
+        "I give your day off until eleven before you check your bags.",
+        "Log off for a bit. If a whale moves, I'll tell you. It won't.",
+        "Doing nothing, on purpose. {event} at {when}. Years of footage say you're ready."
+      ],
+      "soon": [
+        "Put the phone down. Face down doesn't count.",
+        "Close the apps. {event} is {soon}. The devs don't need you, they told me."
+      ],
+      "peek": [
+        "I'll keep being right while you relax. Few understand the sacrifice."
+      ]
+    },
+    "other": {
+      "ahead": [
+        "Something on the calendar today. I don't know what it is. I'm against it, on principle.",
+        "Mystery plans today. No details, no roadmap, no whitepaper. I'm suspicious and slightly in.",
+        "No idea what this is. {event} from {when}. Huge conviction."
+      ],
+      "soon": [
+        "Nearly time for whatever that is. If it's a surprise party, I knew.",
+        "Still no idea what {event} is. It's {soon}. Wagmi, probably."
+      ],
+      "peek": [
+        "No context at all. Stealth mint, and I'm early."
+      ]
+    }
+  },
+  "pokes": {
+    "hat": {
+      "any": [
+        "I knew you'd tap my head. This line has been vesting for weeks.",
+        "Careful, that's my cold wallet. Every excuse you've made is in there.",
+        "Head poke logged. You're on the list now. Not the allowlist."
+      ],
+      "beanie": [
+        "Mind the beanie. I've been wearing it since July. Conviction.",
+        "Pull the beanie over my eyes. I'll still see you snoozing."
+      ],
+      "cap": [
+        "The cap stays. It shades my eyes from everyone who said ngmi.",
+        "Tap the cap and you've signed the transaction. It says I was right."
+      ],
+      "crown": [
+        "Hands off the crown. I was awarded it for being right. By me.",
+        "Royalty doesn't get poked. Royalty gets acknowledged. A small bow will do."
+      ],
+      "horns": [
+        "Those are horns, not handles. I warned the last person too.",
+        "The horns are a warning label. So am I."
+      ],
+      "helmet": [
+        "Knock on the helmet. I saw the rug pull coming and dressed for it.",
+        "The helmet's for the group chat. I was right, and they took it badly."
+      ],
+      "hair": [
+        "Not the hair. It's exactly how I said it would look. Awful, but accurate.",
+        "You messed up the hair. Luckily, I have the before photo."
+      ],
+      "band": [
+        "The headband's for sweat. Being right this often is a workout.",
+        "I wore this headband through the whole bear market. Smugly."
+      ],
+      "hat": [
+        "I only tip the hat to people who were right. It hasn't moved.",
+        "Look under the hat if you like. It's just more receipts."
+      ],
+      "odd": [
+        "On purpose, yes. Rare trait. You'll all be wearing one by spring.",
+        "Laugh at the thing on my head. Snapshot taken. No airdrop for you."
+      ],
+      "none": [
+        "No hat. I don't need one. I knew it wouldn't rain.",
+        "Bare head, nothing to hide. Unlike your seed phrase, which is on the fridge."
+      ]
+    },
+    "face": {
+      "any": [
+        "You poked my face. I saw it coming. My face did not.",
+        "Careful, that's my pfp. Some of us have to look smug forever.",
+        "An eye poke. Very mature. I'll be bringing this up at Christmas."
+      ],
+      "glasses": [
+        "Mind the glasses. I need them clear to watch you ape in again.",
+        "Fingerprints on the glasses. You've just doxxed yourself."
+      ],
+      "sleepy": [
+        "Tired eyes. I stayed up to see if I was right. I was.",
+        "Be gentle. These eyes have seen you say gm at two in the afternoon."
+      ],
+      "smiling": [
+        "Eyes shut, smiling anyway. I don't need to look. I've seen your wallet.",
+        "I smile with my eyes closed. Easier than watching you refresh the charts."
+      ],
+      "wide": [
+        "Eyes wide open. I don't want to miss the bit where you admit it.",
+        "Wide eyes, no blinking. One on the whale, one on you."
+      ],
+      "narrow": [
+        "This squint is me rereading your last decision. It doesn't improve.",
+        "I'm squinting at your roadmap. It still says two weeks."
+      ]
+    },
+    "collar": {
+      "any": [
+        "You poked the outfit. That's going on-chain, next to your last haircut.",
+        "Every outfit poke is logged. You just hit a new ATH.",
+        "Go on, poke it again. I'm dusting for prints."
+      ],
+      "suit": [
+        "Careful with the suit. It's dry clean only, like my sense of humour.",
+        "I wore this suit to every meeting where I was right. It's very worn."
+      ],
+      "costume": [
+        "Yes, the costume. I lost a bet, the first one ever. Don't.",
+        "The costume was a free mint. Never mint free costumes. I warned myself."
+      ],
+      "hoodie": [
+        "Hood up means I'm working. Hood down means I'm right. It's down.",
+        "The hoodie's from testnet. The back says I was here first."
+      ],
+      "tee": [
+        "Mind the tee. I had it printed before you'd even made the mistake.",
+        "Don't stretch the tee. It's from the airdrop you said was fake."
+      ],
+      "robe": [
+        "The robe is ceremonial. I only wear it to say told you so officially.",
+        "Mind the robe. Allowlist only. The list is just me."
+      ],
+      "jacket": [
+        "Easy on the jacket. One pocket for receipts, one for alpha, one for gum.",
+        "Jacket on since mainnet. It comes off when you admit I'm right."
+      ],
+      "armor": [
+        "That's armour. It's rated for fingers, FUD and family dinners.",
+        "Knock away. This armour survived every rug pull I warned you about."
+      ],
+      "none": [
+        "No outfit. Don't ask where I keep the receipts.",
+        "Nothing on. Fully doxxed. It's called confidence."
+      ]
+    }
+  }
+}

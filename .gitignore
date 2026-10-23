@@ -1,0 +1,80 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.next-export/
+/.next-web-stash/
+/out/
+
+# production
+/build
+
+# misc
+__pycache__/
+*.pyc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+!.env.example
+
+# local speech cache and usage counters
+/data
+
+# local Android SDK (not part of the app)
+/.android-sdk
+
+# android build output and the copied web bundle (regenerate with npm run export:android)
+/android/.gradle
+/android/build
+/android/app/build
+/android/local.properties
+/android/captures
+/android/app/src/main/assets/public
+*.apk
+
+# vercel
+.vercel
+
+# the API and share-card routes parked aside while the static Android bundle builds
+.chog-api-stash/
+.chog-share-stash/
+.chog-og-stash
+.chog-twitter-stash
+.chog-proxy-stash
+.chog-apk-stash
+.chog-workflows-stash
+.chog-well-known-stash
+
+# SWC's plugin cache from the workflow build (its generated routes carry their own .gitignore, and
+# the local world keeps its runs in .next/workflow-data)
+/.swc
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# hand-off uploads (internal plan, reference notes, a 25 MB tarball): kept on disk, never committed
+/uploads
+
+.vercel

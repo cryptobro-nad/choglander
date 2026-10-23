@@ -1,0 +1,26 @@
+{
+  "375": {
+    "traits": { "side": "Left", "mouth": "Smile", "eyes": "Base" },
+    "pivot": [480, 700],
+    "head": [730, 830],
+    "body": [790, 900, 990]
+  },
+  "642": {
+    "traits": { "side": "Right", "mouth": "Smile", "eyes": "Happy" },
+    "pivot": [500, 620],
+    "head": [750, 850],
+    "body": [800, 900, 990]
+  },
+  "821": {
+    "traits": { "side": "Right", "mouth": "Lip Bite", "eyes": "Retro Glass" },
+    "pivot": [520, 600],
+    "head": [770, 870],
+    "body": [820, 920, 990]
+  },
+  "242": {
+    "traits": { "side": "Left", "mouth": "Smile", "eyes": "Smirk" },
+    "pivot": [480, 680],
+    "head": [730, 830],
+    "body": [790, 900, 990]
+  }
+}

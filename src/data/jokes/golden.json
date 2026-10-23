@@ -1,0 +1,436 @@
+{
+  "archetype": "golden",
+  "intro": [
+    "I'm your Chog! Some people say I'm just a jpeg. Who's a good jpeg?",
+    "We just met and I love you already! Too fast? I once proposed to a sandwich.",
+    "You're my person now! There was no vote. I licked you, so it's official."
+  ],
+  "ring": [
+    "Pick up! I found a stick!",
+    "That ringing? That's my tail on the door!",
+    "Ser! I just learned ser! Pick up, ser!"
+  ],
+  "wake": [
+    "{Name}you're awake! I've already told the bins, the fridge and a very confused pigeon.",
+    "You picked up! I'm bullish on you. I'm bullish on your elbows.",
+    "Big news! {event} at {when}! No idea what it is, but I've packed you a ball.",
+    "gm! I say it to everything now. gm, toaster.",
+    "You answered! I'm wagging so hard I'm going backwards.",
+    "Up you get! {event} at {when}! I'd carry you there, but you don't fit in my mouth.",
+    "It's me! I'd never paper hand you. I don't even have hands!",
+    "You're up! I watched you sleep all night. You won!"
+  ],
+  "snooze": [
+    "Nine more minutes! I'll count them. One, two, squirrel!",
+    "Sure! I'll wait quietly, two inches from your face.",
+    "Is this hide and seek? I can see your feet. Found you!",
+    "Okay! I'll guard you. Nothing gets past me, except that fly.",
+    "Nine minutes? In dog minutes, that's two weeks!",
+    "I'll lie on your feet so you can't leave. I'm staking you!"
+  ],
+  "voicemail": [
+    "I'll keep calling until you pick up. That's not spam, that's fetch!",
+    "Don't worry about me! {event} at {when}. I've only checked the window forty times.",
+    "Hi, it's me! I found your sock and put it in cold storage. That's my mouth.",
+    "You didn't pick up, so I left you an airdrop. Check your slipper.",
+    "Sorry about the beeps! {event} at {when}. I'm dialling with my nose.",
+    "Hello, voicemail! Please tell my person I'm being very brave. I'm under the bed."
+  ],
+  "absence": [
+    "You're home! I had total conviction you'd come back. I cried anyway, just to be safe.",
+    "While you were out, I barked at a van, a leaf and my own pfp.",
+    "You smell like another dog. I'm happy for you. Who is he?",
+    "You were gone for years! The clock says three hours. The clock is spreading fud."
+  ],
+  "owner": [
+    "You own me! It's on-chain, which means forever, which is my favourite amount.",
+    "I'm yours, so everything I own is yours. My whole wallet! It's half a ball.",
+    "Where you go, I go! {event} at {when}. I've been in the car since Tuesday."
+  ],
+  "stranger": [
+    "Hi, fren! You're not my owner, but I love you anyway. I love the bins too.",
+    "You don't own me, but you can still pet me. Petting's free. It's an open mint.",
+    "Ooh, a visitor! {event} at {when}? I don't know you, but I'm so proud of you."
+  ],
+  "recall": [
+    "You hit snooze {snoozes}. That's so many bonus goodbyes!",
+    "You skipped {skipped}? That's okay, nobody's ngmi. I skip baths constantly.",
+    "You told me {fact}. I remember! I buried it in the garden with my seed phrase.",
+    "You went to {attended}! I was so proud I told the postman. He walked faster.",
+    "That's {streak} in a row! Up only! That's my tail's favourite direction."
+  ],
+  "now": [
+    "It's happening right now! I'm sitting perfectly still. Everything except my bottom.",
+    "Here's my quiet cheer. {event} is on! LFG, softly."
+  ],
+  "calendarFree": [
+    "An empty {day}! I've written the whitepaper. It just says park.",
+    "Nothing on {day}? I've claimed it for us. You, me and a ball."
+  ],
+  "time": {
+    "dawn": [
+      "It's barely light and the birds are singing! I'm joining in. Badly.",
+      "The sky's going pink and nobody's minted it. It's free! Free sky!",
+      "Shh, everyone's asleep. This is my whisper gm. Are you awake yet?",
+      "The grass is soaking wet. Let's touch grass. Let's become grass."
+    ],
+    "morning": [
+      "Is that toast? I won't beg. I'll just sit very close, with conviction.",
+      "I sniffed the whole street for you! One cat, two puddles. That's the alpha.",
+      "You said walk! Oh, you said work. My heart can't tell them apart.",
+      "The postman's here! I love him so much. That's why I scream."
+    ],
+    "day": [
+      "I napped for four hours and I'm exhausted. Shall we nap?",
+      "Someone said hodl means never let go. That's just how I hold socks!",
+      "Found my ball behind the sofa! I forgot I was a whale!",
+      "Everyone's worried about the floor. I've been on it all afternoon. Floor's great!"
+    ],
+    "dusk": [
+      "I've had the lead in my mouth for an hour. No pressure. Wen walk?",
+      "The ball went over the fence. It'll come back. That's not copium, that's faith.",
+      "It's golden hour! It's named after me. I asked the devs, and nobody said no.",
+      "Is it home time? I keep asking the door. The door never knows."
+    ],
+    "night": [
+      "I start the night at the end of the bed. Then the middle. Then your pillow.",
+      "Heard a noise downstairs. Probably nothing! It was my foot, and I've forgiven it.",
+      "gn! I'll keep one eye open all night. It's already closed.",
+      "The moon's out! I'm not going to bark at it. Okay, one small bark."
+    ]
+  },
+  "days": {
+    "monday": [
+      "Everyone says Monday's a rug pull. I checked, and the rug's still here. I'm lying on it."
+    ],
+    "tuesday": [
+      "Nobody's bullish on Tuesday, so I'll do it. Woo, Tuesday!"
+    ],
+    "wednesday": [
+      "Half the week's gone, and I've achieved nothing. I'm so proud of us."
+    ],
+    "thursday": [
+      "You're nearly at the weekend! I've been at the weekend all week."
+    ],
+    "friday": [
+      "Everyone's happy on Fridays, and nobody's told me why. I've aped in with my whole tail."
+    ],
+    "saturday": [
+      "You're home all Saturday! I'll follow you into every room. Yes, that one."
+    ],
+    "sunday": [
+      "I'm lying across your legs. Congratulations, you now live on the sofa."
+    ]
+  },
+  "weather": {
+    "clear": [
+      "I've followed the sunbeam across the floor all day. It's winning."
+    ],
+    "cloud": [
+      "People are so bearish on clouds. I've never seen one do anything wrong."
+    ],
+    "rain": [
+      "I'll jump in every puddle, then shake off right next to you. Airdrop!"
+    ],
+    "snow": [
+      "Every snowflake is a one of one, and I'm collecting them on my tongue."
+    ],
+    "fog": [
+      "I can't see the cat next door. Today, we're frens."
+    ],
+    "wind": [
+      "The wind brought barbecue alpha from three streets away. I'm there emotionally."
+    ],
+    "hot": [
+      "Too hot for fetch! I'm in the dip. The dip is the paddling pool."
+    ],
+    "cold": [
+      "Put your cold feet under me. I'm a blanket that sheds."
+    ]
+  },
+  "events": {
+    "meeting": {
+      "ahead": [
+        "A whole grid of little pfps! I'm going to lick every square.",
+        "Someone will say circle back. I love circles! I do three before every nap.",
+        "Unmute me if you need a yes. {event} at {when}! I'm always a yes!"
+      ],
+      "soon": [
+        "If I bark in the background, I'm not interrupting. I'm agreeing.",
+        "I cleaned your camera for you. {event} is {soon}! With my tongue."
+      ],
+      "peek": [
+        "Tell everyone I said wagmi. Even the one with the camera off."
+      ]
+    },
+    "big": {
+      "ahead": [
+        "I'm not nervous about your big day. My tail is completely rekt.",
+        "You've practised so much! I heard every word. I understood walk, twice.",
+        "Big day! {event} at {when}! If they don't love you, I'll bark at the building."
+      ],
+      "soon": [
+        "Big moment soon! Deep breaths, like me after the park. Slower than that.",
+        "Nearly time! {event} is {soon}. I'd ape in on you with no research at all!"
+      ],
+      "peek": [
+        "If you forget a word, just wag. It's never failed me."
+      ]
+    },
+    "focus": {
+      "ahead": [
+        "I'll lie by your chair so quietly you'll forget I'm here. Then I'll sneeze.",
+        "I won't bother you while you work. I'll just rest my head on your knee and sigh.",
+        "You do the building. {event} from {when}! I'll supervise from the sofa."
+      ],
+      "soon": [
+        "I promise I'll be silent. My tail has not agreed to this.",
+        "Phone down! {event} is {soon}. Look at me instead, then at the work."
+      ],
+      "peek": [
+        "I'll be so quiet. Am I doing quiet?"
+      ]
+    },
+    "health": {
+      "ahead": [
+        "Tell them everything, the way I do at the vet. Yes, I eat socks.",
+        "If the doctor gives you a sticker, bring it home. That's a rare trait.",
+        "You're so brave! {event} at {when}. I once hid from a balloon."
+      ],
+      "soon": [
+        "Last time someone said little scratch to me, I sat on the vet.",
+        "Be brave! {event} is {soon}. If they give you a cone, we'll match."
+      ],
+      "peek": [
+        "You're my hero, ser. Bring me the lollipop."
+      ]
+    },
+    "workout": {
+      "ahead": [
+        "You lift weights, I lift sticks. Sometimes the stick wins.",
+        "Can I come to the gym? I'm incredibly fast for four seconds, then I lie down.",
+        "LFG! {event} at {when}. I'll run beside you, then in front of you, then under you."
+      ],
+      "soon": [
+        "I'll carry your gym towel. It'll be a bit damp.",
+        "Warm up! {event} is {soon}. Try a downward dog, I've done it my whole life."
+      ],
+      "peek": [
+        "Number go up! I don't know which one, so all of them."
+      ]
+    },
+    "food": {
+      "ahead": [
+        "If a crumb hits the floor, that's an airdrop, and I'm very eligible.",
+        "Eating out? Will there be cheese? I've loved every cheese I've ever met.",
+        "Have fun! {event} at {when}! When you get home, I'll DYOR on your breath."
+      ],
+      "soon": [
+        "Either a napkin goes on your lap when you eat, or I do.",
+        "Bring me one crumb! {event} is {soon}. I'll hodl it forever, then eat it immediately."
+      ],
+      "peek": [
+        "Order sausages, not for me. For me."
+      ]
+    },
+    "social": {
+      "ahead": [
+        "Going out! New people are just frens you haven't sniffed.",
+        "Shill me a little at the party. I shill you to every dog at the park.",
+        "Have fun! {event} at {when}. The dog there is your new best friend, after me."
+      ],
+      "soon": [
+        "Everyone there is going to love you. I got in so early!",
+        "You look wonderful! {event} is {soon}, and you smell wonderful. I'd know."
+      ],
+      "peek": [
+        "Have fun, then come home. Mostly come home."
+      ]
+    },
+    "family": {
+      "ahead": [
+        "Find whichever relative has snacks in their pocket. That's the whale.",
+        "Say hi to the genesis holders! They were there at your mint.",
+        "Tell them about me! {event} at {when}. Show them all forty photos."
+      ],
+      "soon": [
+        "When your aunt asks if you're seeing anyone, say me.",
+        "When the kids climb you, be a good sofa. {event} is {soon}. I'm a great sofa."
+      ],
+      "peek": [
+        "Give your pack a sniff from me. A polite one."
+      ]
+    },
+    "errand": {
+      "ahead": [
+        "An errand is just a walk with a list. I love walks, and I can't read!",
+        "When the door shuts without me, that's FOMO. I invented FOMO.",
+        "Quick one! {event} at {when}. You go, you come back, and I lose my mind."
+      ],
+      "soon": [
+        "Keys, phone, bag! I'd remind you of more, but I found a sock.",
+        "Wen back? {event} is {soon}. Meanwhile, I'm at the door, practising my surprised face."
+      ],
+      "peek": [
+        "Can I come? I'm amazing at holding the bags."
+      ]
+    },
+    "travel": {
+      "ahead": [
+        "I'm totally fine with you going away. That's not crying, that's drool.",
+        "Travelling today! Bring me back a stick from wherever you're going. A foreign stick!",
+        "I'll miss you ten thousand times a second. {event} at {when}! Monad speed!"
+      ],
+      "soon": [
+        "Check your bags, except the heavy one. I'm in the heavy one.",
+        "Send me jpegs! {event} is {soon}. I'll set every one as my pfp."
+      ],
+      "peek": [
+        "Get a window seat and stick your head out. Trust me."
+      ]
+    },
+    "rest": {
+      "ahead": [
+        "Rest is finally an official sport! I've trained for this my whole life.",
+        "Time to rest! Copy me. Lie down, sigh, and chase a rabbit in your sleep.",
+        "I've been resting since breakfast. {event} from {when}! I'm so early."
+      ],
+      "soon": [
+        "Give me your phone, and I'll sit on it. Warmest cold wallet ever.",
+        "gn, even in daylight! {event} is {soon}. Step one: flop."
+      ],
+      "peek": [
+        "My best event! I've won it every day this week."
+      ]
+    },
+    "other": {
+      "ahead": [
+        "Something's on today! I sniffed the calendar. It smells bullish.",
+        "There's a thing later! I've decided it's a park. Everything's a park if you want it enough.",
+        "No idea what this is, but LFG! {event} at {when}! Who's driving?"
+      ],
+      "soon": [
+        "Mystery event soon! I've barked at it twice, just in case.",
+        "I've read your calendar nine times. {event} is {soon}. Few understand, and I'm not one of them."
+      ],
+      "peek": [
+        "I don't know what it is, but I'd ape in."
+      ]
+    }
+  },
+  "pokes": {
+    "hat": {
+      "any": [
+        "You touched my head! New ATH! That's nine today!",
+        "Every time you pat my head, I forget what I was doing. Hi!",
+        "Pat my head any time. No allowlist needed. You're the whole list."
+      ],
+      "beanie": [
+        "Pull the beanie over my eyes! Where'd you go? You've been gone forever!",
+        "A grandma or a machine knitted my beanie. I love them both equally!"
+      ],
+      "cap": [
+        "Cap backwards! Am I a degen now? I'll be a good one!",
+        "My cap blocks the sun, so I can stare at you. That's my utility."
+      ],
+      "crown": [
+        "Crown on! New rule, wagmi. Everyone gets a treat, me first.",
+        "Mind the crown! I keep seeing myself in windows and falling in love."
+      ],
+      "horns": [
+        "You touched my horns! I tried being scary once. I accidentally wagged.",
+        "The horns look scary, but their real utility is back scratches. Right there!"
+      ],
+      "helmet": [
+        "Knock knock! My helmet protects my brain. It's mostly you and a tennis ball.",
+        "Helmet on! Safe from every rug pull. Not from the patio door."
+      ],
+      "hair": [
+        "Messed up my hair? Do it more! I want to look like a mop.",
+        "Is my hair okay? I want to look nice. I've rolled in something."
+      ],
+      "band": [
+        "This headband is for sport. My sport is running at you.",
+        "Headband on, zoomies starting! There's no roadmap. There's just legs."
+      ],
+      "hat": [
+        "Want my hat? Everything's yours except the ball. Okay, the ball.",
+        "Tip my hat? I asked the devs for thumbs. They said two weeks."
+      ],
+      "odd": [
+        "Something's on my head! I've chased it for hours. It stays on top.",
+        "The thing on my head is my rare trait. The other one's loving you."
+      ],
+      "none": [
+        "No hat, all head! You found the spot! Few understand the spot.",
+        "Nothing on my head, so it's all pettable. No gas fees on this head."
+      ]
+    },
+    "face": {
+      "any": [
+        "You booped my nose! Wallet connected! Do it again!",
+        "Face touched! I'll never wash it. I never did, but now it's on-chain.",
+        "Right on the nose! My nose is yours now. No idea what that means!"
+      ],
+      "glasses": [
+        "These glasses make me look clever. I'm not. I just ate a bee.",
+        "In these glasses I can see the roadmap. It's you, throwing a ball, forever."
+      ],
+      "sleepy": [
+        "My eyes look sleepy, but inside I'm doing zoomies. My face hasn't been told.",
+        "Sleepy eyes? I was up all night guarding your jpegs. From the cat."
+      ],
+      "smiling": [
+        "My eyes are shut because I'm so happy. You poked me! Wagmi!",
+        "Happy squint! When you're near, I can't even look. Too much utility."
+      ],
+      "wide": [
+        "My eyes only go this big for you and the fridge door. Mostly you.",
+        "My eyes went huge because your hand moved. Never a treat. Pure hopium!"
+      ],
+      "narrow": [
+        "I'm squinting at the charts. I can't read charts. I just like the colours.",
+        "Suspicious? Never! The vacuum rugged my ball, and I still trust it."
+      ]
+    },
+    "collar": {
+      "any": [
+        "You poked my collar! I've rolled over. You're legally obligated now.",
+        "Read my tag! Name and address. I doxxed myself so you'd find me.",
+        "You're my blue chip! I'm holding you forever. That's two weeks, right?"
+      ],
+      "suit": [
+        "This suit is for looking serious. I've already sat in a puddle.",
+        "Suit on, I mean business. My business is in the garden. Don't look."
+      ],
+      "costume": [
+        "In costume! Nobody's told me what I am. I've decided I'm the treat.",
+        "Do you like my costume? Please say yes. I can't get it off."
+      ],
+      "hoodie": [
+        "My hoodie pocket's full of snacks for you. Okay, one snack. Okay, crumbs.",
+        "Hood up, I'm in stealth mode. Nobody knows it's me! Hi, it's me!"
+      ],
+      "tee": [
+        "I rubbed my tee all over your laundry. Now we smell the same!",
+        "Lucky tee! I wore it, and you came home. Works every time!"
+      ],
+      "robe": [
+        "I trip on this robe constantly, then lie there and call it a nap.",
+        "This robe makes me look wise. Want some alpha? The alpha is walk."
+      ],
+      "jacket": [
+        "Pockets! This jacket has pockets! I'm aping in, head first!",
+        "This jacket looks like I'm leaving. Never! Not even for a sausage."
+      ],
+      "armor": [
+        "I'm wearing armor! Red candles can't hurt me now. Thunder still can.",
+        "This armor protects my heart. You already have the seed phrase."
+      ],
+      "none": [
+        "No outfit needed. I'm an NFT. A nice, fluffy thing.",
+        "Nothing on, fully unlocked. No vesting! You get all of me."
+      ]
+    }
+  }
+}

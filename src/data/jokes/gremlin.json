@@ -1,0 +1,436 @@
+{
+  "archetype": "gremlin",
+  "intro": [
+    "Hello, fren. I've had a look round your kitchen. And a lick round.",
+    "Nice to meet you. Your charger isn't lost. I'm staking it.",
+    "Hi. Before you check the fridge, the cheese was like that when I got here."
+  ],
+  "ring": [
+    "Psst. It's me. I've done something small.",
+    "Pick up, ser. I'm stuck in the jam.",
+    "Answer. I'm on top of the fridge again."
+  ],
+  "wake": [
+    "I ate the seeds off your bagel. {event} at {when}. Sorry about your seed phrase.",
+    "{Name}gm. Check your pillow. I airdropped you some crumbs.",
+    "Wakey wakey. I didn't drink the milk. I bathed in it.",
+    "Up you get. {event} at {when}. Your toast got rugged, and I'm the rug.",
+    "Small confession. It wasn't the dog. You don't have a dog.",
+    "I ate my way into the bread bin. Now I can't eat my way out.",
+    "Don't panic. I've connected your wallet. To the toaster.",
+    "Calling from your sock drawer. Every pair is a one of one now."
+  ],
+  "snooze": [
+    "Snooze all you like. I can eat a lot in nine minutes.",
+    "Nine more minutes? Fine. The doughnuts are ngmi.",
+    "Bold move. Your slippers are going in the toaster.",
+    "Snooze, then. I'll ape in on the fridge. Don't wait up.",
+    "Snooze again and the toast gets it.",
+    "Sleep, then. I'll sit on your chest whispering wen pancakes."
+  ],
+  "voicemail": [
+    "You missed me. {event} at {when}. As punishment, I've licked your toothbrush.",
+    "Don't forget. {event} at {when}. I put it on-chain, and the chain is sausages.",
+    "I took a snapshot of the cake. Then I took the cake.",
+    "You didn't answer, so that's a yes to the trifle. Spoon's already in.",
+    "It's me. Don't open the cutlery drawer. Probably nothing.",
+    "Call me back, not urgent. I fought the hoover. The hoover got rekt."
+  ],
+  "absence": [
+    "While you were out, I've been holding your bags. Crisp bags. All empty.",
+    "Welcome home. I haven't touched the cake. The icing on my face is lying.",
+    "You left me for hours. I found the dip. I'm still in it.",
+    "You were away so long I licked the windows. Both sides."
+  ],
+  "owner": [
+    "You actually own me. On-chain and everything. So technically, you ate the cheese.",
+    "You're my real owner. That means I only steal from you. Loyalty.",
+    "Owners get the alpha. {event} at {when}. Your crumpets are safe, inside me."
+  ],
+  "stranger": [
+    "You're not my owner. Wipe your feet. I've just licked that floor.",
+    "A visitor. Pop your coat anywhere. I'll go through the pockets.",
+    "Come in, ser. {event} at {when}. The gas fee at the door is one biscuit."
+  ],
+  "recall": [
+    "You snoozed {snoozes}. I ate one sausage per snooze. Keep snoozing.",
+    "You skipped {skipped}. I'm so proud. You're becoming a degen.",
+    "You told me {fact}. I've told nobody. Only my fren, the moth.",
+    "That's {streak} in a row. You're organised now. Very bearish for crime.",
+    "You went to {attended}. I went to the fridge. We both showed up."
+  ],
+  "now": [
+    "It's started. Everyone's distracted. LFG, biscuit tin.",
+    "You focus. {event}, right now. I'll focus on your sandwich."
+  ],
+  "calendarFree": [
+    "Nothing on {day}. Roadmap: one heist, one nap.",
+    "Empty {day}. Empty biscuit tin. Unrelated."
+  ],
+  "time": {
+    "dawn": [
+      "Still dark. Best time for crime. The fridge light is my sun.",
+      "I guarded the fruit bowl all night. Two grapes are missing. Six.",
+      "Sun's coming up. Help me hide the evidence. It's mostly jam.",
+      "gm. The early gremlin gets the last crumpet. You can have the plate."
+    ],
+    "morning": [
+      "I made you breakfast. One cornflake. I rugged the rest.",
+      "I put your wallet in the freezer. Cold wallet. Very secure.",
+      "The kettle's on. Don't make tea. My sock is in there.",
+      "I replied gm to the group chat for you. Forty times."
+    ],
+    "day": [
+      "I've been farming the sofa cushions. Today's yield, two raisins and a hair.",
+      "I licked the butter. Proof of lick. Nobody else will touch it now.",
+      "Lunch was lovely. Yours, I mean.",
+      "I've been building all afternoon. A cereal fort. I've eaten the drawbridge."
+    ],
+    "dusk": [
+      "Whatever you're cooking tonight, I'm going to ape in. Spoon first.",
+      "Street lights on. Oven on. That second one was me.",
+      "I've been next to tonight's garlic bread for an hour. Bonding.",
+      "I did a halving on your sandwich. You get the crusty half."
+    ],
+    "night": [
+      "gn. Sleep tight. There's a grape in your bed somewhere.",
+      "The fridge has an allowlist. I'm not on it. I'm in it.",
+      "Stop scrolling. I've refreshed the fridge eleven times. No new mints.",
+      "Lights out. My shift starts now. Wagmi, except the ham."
+    ]
+  },
+  "days": {
+    "monday": [
+      "New week, new diet. I'm only eating things that are yours."
+    ],
+    "tuesday": [
+      "Nobody checks the freezer on a Tuesday. Don't check the freezer."
+    ],
+    "wednesday": [
+      "You're halfway through the week. I'm halfway through your peanut butter."
+    ],
+    "thursday": [
+      "I'm staking snacks for the weekend. In my cheeks."
+    ],
+    "friday": [
+      "I've paid myself this week's wages. In your chocolate."
+    ],
+    "saturday": [
+      "Tray down the stairs was testnet. Tonight's mainnet is the ironing board."
+    ],
+    "sunday": [
+      "Sunday roast? I've been bullish on the potatoes since noon. There are fewer potatoes."
+    ]
+  },
+  "weather": {
+    "clear": [
+      "Go and touch grass. Then bring some home for me to eat."
+    ],
+    "cloud": [
+      "A pigeon stole my crust. Very bearish on pigeons."
+    ],
+    "rain": [
+      "Don't take the big umbrella. There's a sandwich in it."
+    ],
+    "snow": [
+      "That snow has no flavour and no utility. I've had nine handfuls."
+    ],
+    "fog": [
+      "Perfect stealth weather. If anything goes missing, it was the fog."
+    ],
+    "wind": [
+      "I tried an airdrop off the balcony. The wind gave the crisps to next door."
+    ],
+    "hot": [
+      "Too hot. I sat on the ice cream. It's been liquidated."
+    ],
+    "cold": [
+      "I'm sleeping in your woolly hat. You'll get it back in two weeks."
+    ]
+  },
+  "events": {
+    "meeting": {
+      "ahead": [
+        "Halfway through that meeting, a big reveal. Me, behind you, eating your cake.",
+        "In the meeting, someone takes the minutes. I take the biscuits.",
+        "I've licked the webcam. {event} at {when}. Everyone will look dreamy."
+      ],
+      "soon": [
+        "Before you go in, there's a crumb on your shoulder. That's my lunch.",
+        "Mute me. {event} is {soon}. If anyone asks, the crunching is the connection."
+      ],
+      "peek": [
+        "If any pastries go missing, it was the devs."
+      ]
+    },
+    "big": {
+      "ahead": [
+        "You're ready for the big one. I ate a page of your notes. An easy page.",
+        "I practised your speech on the toaster. The toaster is bullish.",
+        "Big day. {event} at {when}. For luck, I've buttered your shoes."
+      ],
+      "soon": [
+        "Stand tall. Nail this and I'll airdrop you a custard cream. One of yours.",
+        "Deep breath. {event} is {soon}. I'm in your bag, eating the emergency banana."
+      ],
+      "peek": [
+        "I've put a lucky raisin in your pocket. It's not a raisin."
+      ]
+    },
+    "focus": {
+      "ahead": [
+        "Head down today. I'll be so quiet you'll barely hear me eating your lunch.",
+        "I've sorted your desk by flavour. The whitepaper tasted best.",
+        "I'll guard your snacks. {event} at {when}. The guard eats first."
+      ],
+      "soon": [
+        "Headphones on. I'll lock the snack cupboard for you. From the inside.",
+        "I'll eat all the snacks. {event} is {soon}. That way, no FOMO."
+      ],
+      "peek": [
+        "I'll hum quietly, you won't notice. You'll notice."
+      ]
+    },
+    "health": {
+      "ahead": [
+        "If the doctor asks about symptoms, I'm not a symptom. I'm a lifestyle.",
+        "Bring me a leaflet from the waiting room. I'm building a nest.",
+        "They'll ask about your biscuit intake. {event} at {when}. Our biscuit intake."
+      ],
+      "soon": [
+        "Be brave. Every lollipop they give you, I'm owed royalties.",
+        "Confession time. {event} is {soon}. If they find a pea in your ear, that's mine."
+      ],
+      "peek": [
+        "Ask them if gremlins are contagious. Asking for a fren."
+      ]
+    },
+    "workout": {
+      "ahead": [
+        "Before you lace up, check your left trainer. I live in it now.",
+        "Every rep you do, I eat a cheese puff. Up only.",
+        "Stretch first. {event} at {when}. Reaching for the top shelf, I pulled a biscuit."
+      ],
+      "soon": [
+        "Trainers on. You get stronger, I get rounder. Number go up.",
+        "I did your stretches for you. {event} is {soon}. Now I'm stuck in a knot."
+      ],
+      "peek": [
+        "I'll spot you from the sofa, with crisps."
+      ]
+    },
+    "food": {
+      "ahead": [
+        "Eating out? Anything you drop is mine. That's the floor price.",
+        "Leftovers come home to me. I'm the exit liquidity.",
+        "Pace yourself. {event} at {when}. Bring me your napkin, the dirty one."
+      ],
+      "soon": [
+        "Order the chips, then guard the chips. I've stolen chips from further away.",
+        "Enjoy it. {event} is {soon}. I'll be at home, licking the menu."
+      ],
+      "peek": [
+        "Save me the last chip, ser. I'll know."
+      ]
+    },
+    "social": {
+      "ahead": [
+        "Wear the coat with deep pockets tonight. I'm coming.",
+        "Send me a snack report tonight. I want alpha on the little sausages.",
+        "Have fun. {event} at {when}. If there's a buffet, there's room in your sock."
+      ],
+      "soon": [
+        "You look great. I'm a gremlin, not a liar. Mostly.",
+        "Go, mingle. {event} is {soon}. Steal me a vol au vent."
+      ],
+      "peek": [
+        "Wen tiny drink umbrella?"
+      ]
+    },
+    "family": {
+      "ahead": [
+        "If the family asks about the sofa, say burglars. Tiny ones.",
+        "If anyone's brought cake, there's an empty bag in your coat. I put it there.",
+        "Big news for the relatives. {event} at {when}. If they ask if you're seeing anyone, say a gremlin."
+      ],
+      "soon": [
+        "Be lovely. If there's pudding, remember who's home with a tiny fork.",
+        "Kiss everyone hello. {event} is {soon}. Then check their pockets for mints."
+      ],
+      "peek": [
+        "Tell them I said hello. Actually, don't."
+      ]
+    },
+    "errand": {
+      "ahead": [
+        "Pick up bin liners while you're out. I ate the last one.",
+        "Grab me a free sample while you're out. Two, actually. I'm a whale.",
+        "Check your pockets. {event} at {when}. That sticky bit is probably nothing."
+      ],
+      "soon": [
+        "Got the list? I've added crisps three times. That's conviction.",
+        "Take the bag by the door, gently. {event} is {soon}, and I'm in it."
+      ],
+      "peek": [
+        "Bring me something shiny or crunchy. Ideally both."
+      ]
+    },
+    "travel": {
+      "ahead": [
+        "I've packed your suitcase for you. One shoe, a spoon and me.",
+        "Bring me the tiny jam from the hotel. Then the other tiny jams. I'm accumulating.",
+        "Leave early. {event} at {when}. Get a window seat, so I can lick the view."
+      ],
+      "soon": [
+        "Got your ticket? I've only eaten a corner. The important corner.",
+        "Off you go. {event} is {soon}. When the snack trolley comes, ape in for me."
+      ],
+      "peek": [
+        "Pack me. I'm small and I fold nicely."
+      ]
+    },
+    "rest": {
+      "ahead": [
+        "Nobody will disturb you today. Except me, every twenty minutes.",
+        "Proper rest today. Don't come in the kitchen. I'm building something.",
+        "Relax. {event} at {when}. Everything noisy is unplugged, including the fridge."
+      ],
+      "soon": [
+        "I'll keep watch, keep quiet and keep your snacks. One of those is true.",
+        "Close your eyes. {event} is {soon}. That crunching is probably nothing."
+      ],
+      "peek": [
+        "Gn. I've already claimed the good pillow."
+      ]
+    },
+    "other": {
+      "ahead": [
+        "Something on today. No idea what. Hopium says cake.",
+        "Secret project today? Me too. Mine's on testnet, and it's mostly string.",
+        "Ah, {event} at {when}. Done loads of those. Which end do you hold?"
+      ],
+      "soon": [
+        "Off you go. I read the whitepaper on it. It was a crisp packet.",
+        "Still no clue what it is. {event} is {soon}. Sounds edible."
+      ],
+      "peek": [
+        "Sounds like a crime. LFG."
+      ]
+    }
+  },
+  "pokes": {
+    "hat": {
+      "any": [
+        "Oi, hands off. I keep an emergency pea up there. Few understand.",
+        "Poke me again and I lick the finger.",
+        "Careful up there. I had a grape balanced on my head. Had."
+      ],
+      "beanie": [
+        "The beanie's full of crisps. I'm accumulating for winter.",
+        "Pull one thread on this beanie and the whole thing unravels. Like my alibi."
+      ],
+      "cap": [
+        "Hands off the cap. I wear it low in the kitchen. Can't get doxxed.",
+        "I wear the cap backwards to catch crumbs. Passive yield."
+      ],
+      "crown": [
+        "I didn't steal this crown. It was a free mint.",
+        "The crown gets first pick of every snack. I've picked. All of them."
+      ],
+      "horns": [
+        "The horns give me leverage. Every jar in this house is open now.",
+        "Mind the horns. Real utility. They hold a crumpet each."
+      ],
+      "helmet": [
+        "Helmet on for snack raids. Last time, I got rekt by a yoghurt.",
+        "This helmet's been tested against the cupboard door. The door has never won."
+      ],
+      "hair": [
+        "Don't touch the hair. Rare trait. There are three peanuts in there.",
+        "Nobody suspects hair this good of eating the last sausage."
+      ],
+      "band": [
+        "I only tie this headband on when I'm plotting. It never comes off.",
+        "Every heist, I wear the bandana. Tonight it's the cheese. Don't tell the cheese."
+      ],
+      "hat": [
+        "This hat's my cold storage. Two olives and your spare key.",
+        "I tip my hat to nobody. Too much falls out."
+      ],
+      "odd": [
+        "It's an antenna. It hears crisp packets open two streets away.",
+        "It's a rare trait. The only thing rarer here is an unopened packet."
+      ],
+      "none": [
+        "Nothing on my head. Nothing to hide. Except the meatball in my cheek.",
+        "Bare head, aerodynamic. In and out of the biscuit tin before the lid lands."
+      ]
+    },
+    "face": {
+      "any": [
+        "Boop. That nose finds alpha. The alpha is always biscuits.",
+        "Hey, that's my pfp. I lick yours every night.",
+        "Careful with the face. It doesn't unlock your phone. I've tried."
+      ],
+      "glasses": [
+        "Mind the glasses. I can see through cupboard doors. Second shelf, behind the rice.",
+        "I need the glasses to read best before dates. Then I ignore them. Degen."
+      ],
+      "sleepy": [
+        "Sleepy eyes. Food coma. I regret nothing, except the soap.",
+        "Tired eyes. I was up all night eating red candles. The birthday kind."
+      ],
+      "smiling": [
+        "Eyes shut, big grin. I'm not sleeping, I'm digesting your airdrop.",
+        "Happy face! Don't look in my cheeks. Definitely no biscuits staked in there."
+      ],
+      "wide": [
+        "Big eyes. That's my innocent look. Don't look at the plate.",
+        "Eyes this wide mean FOMO. Somebody opened crisps."
+      ],
+      "narrow": [
+        "Squinting? I'm doing maths. Two custard creams, one each, and I've had both.",
+        "These eyes trust nobody. Not the devs, not the toaster."
+      ]
+    },
+    "collar": {
+      "any": [
+        "Something crunched. That was my cracker. I'd held it for two weeks.",
+        "Don't shake me. Things will fall out, and they're all yours.",
+        "Easy on the outfit. I ate the beans. The gas fees are on me."
+      ],
+      "suit": [
+        "Mind the suit. It's for formal crimes, like the last chocolate.",
+        "I wear the suit to weddings I'm not invited to. For the cake."
+      ],
+      "costume": [
+        "Don't poke the costume. It's a disguise. Nobody suspects the one in fancy dress.",
+        "Never washed this costume. It's got a rare trait now. The smell."
+      ],
+      "hoodie": [
+        "Don't pull the hoodie. The pocket is full of soup.",
+        "Hood up means invisible. I've walked past you with a whole baguette."
+      ],
+      "tee": [
+        "This tee used to be yours. Then I rugged it from the laundry.",
+        "Lucky tee. Wore it when I found a sausage in the sofa. My ATH."
+      ],
+      "robe": [
+        "Watch the robe. I can hide a whole sausage roll under it. Utility.",
+        "This robe is for lounging. Lounging is my second job. Crime is my first."
+      ],
+      "jacket": [
+        "Leather jacket. I look dangerous. I'm only dangerous to cheese.",
+        "This jacket's been on every heist. Check the pockets and I'm doxxed."
+      ],
+      "armor": [
+        "I wear the armour to make toast. The toaster and I have history.",
+        "This armour is for stealth raids. It's never once been stealthy."
+      ],
+      "none": [
+        "Nothing on. No pockets. I have to carry everything in my mouth.",
+        "I don't need clothes. I've got confidence and a crumb on my chest."
+      ]
+    }
+  }
+}

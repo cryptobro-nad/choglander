@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The page background (globals.css body), so splash -> WebView -> page has no flash. -->
+    <color name="chog_splash">#C9D4EE</color>
+</resources>

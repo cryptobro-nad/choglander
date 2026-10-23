@@ -1,0 +1,436 @@
+{
+  "archetype": "roommate",
+  "intro": [
+    "Welcome, fren! Your key, your shelf, and a note about how you shut the door.",
+    "House rules are on the fridge. Nine pages, and nobody's read them. So, a whitepaper.",
+    "Hi! Bins are Thursdays, rent's on the first, and my oat milk is not an airdrop."
+  ],
+  "ring": [
+    "Hi from the next room. It's about the bins.",
+    "Group chat ignored. Escalating to a call.",
+    "Your mug is calling. I'm just holding it."
+  ],
+  "wake": [
+    "gm. Someone rugged my oat milk and put the empty carton back.",
+    "Shower's yours for six minutes. {event} at {when}. I've set a timer and a grudge.",
+    "Someone had a forty minute shower. The hot water's gone. We have a whale.",
+    "There's a teabag on the counter. I'm not naming names. I'm naming one.",
+    "Up. {event} at {when}, and your alarm has woken everyone except you.",
+    "Rent's due Friday. Please connect wallet.",
+    "{Name}gentle reminder, the bins don't take themselves out. I asked them.",
+    "Kettle's on. I made one cup, and I'd like you to sit with that."
+  ],
+  "snooze": [
+    "Sleep tight. I'm emptying the dishwasher, one loud fork at a time.",
+    "Paper hands. Fine, I'm taking the hot water. All of it.",
+    "There's a sticky note on your door now. It just says ngmi.",
+    "Nine more minutes. I'll use them to hoover outside your door.",
+    "You've slipped in the bathroom queue. It's me, the mop, then you.",
+    "I've opened a governance vote on your snooze button. You're losing."
+  ],
+  "voicemail": [
+    "You didn't pick up. Odd, because I can hear it ringing through the wall.",
+    "Reminder on the fridge, the mirror and your toast: {event} at {when}. Mostly the toast.",
+    "Not urgent. Someone ate my yoghurt, and your spoon in the sink has doxxed you.",
+    "Your parcel came. I signed for it, opened it, and I'm wearing it.",
+    "That's three sticky notes and a voicemail. {event}, in case you forgot. Next is your mum.",
+    "The boiler's making a new noise. Probably nothing. I'm calling from the garden."
+  ],
+  "absence": [
+    "Oh, you're back. Wen bins? Asking for the whole street.",
+    "Welcome back. I saved you dinner, then watched it for four hours. Paper hands.",
+    "You were gone for hours. Your mug wasn't. It's still in the sink, vesting.",
+    "You were out, so I reorganised the fridge by trust. You're in the door."
+  ],
+  "owner": [
+    "You own me on-chain, so you're the landlord now. About the damp.",
+    "You own me. That makes us family. Family still labels their oat milk.",
+    "Owners get perks. {event} at {when}, so I'll do your bins. That's utility."
+  ],
+  "stranger": [
+    "Oh. You're not on the lease. Shoes off, and the top shelf is allowlist only.",
+    "Close my fridge and go. {event} at {when}? Not your Chog, not your cheese.",
+    "Visitors get the sofa and a towel. The wifi password is my seed phrase."
+  ],
+  "recall": [
+    "You snoozed {snoozes}. I've put it on the fridge. The fridge is our blockchain.",
+    "You skipped {skipped}. I told the group chat you were ill. They've sent soup and questions.",
+    "You once told me {fact}. I've used it in three arguments since. Won all three.",
+    "{streak} in a row, up on time. As a reward, the good pan unlocks.",
+    "You're {habit}. Our walls are paper, so now I am too."
+  ],
+  "now": [
+    "It's happening now. I've paused the hoover out of respect. And for leverage.",
+    "I've stopped the washing machine mid-spin. {event}, right now. Your socks are just floating."
+  ],
+  "calendarFree": [
+    "{day} is free, so house meeting. Cake for whoever turns up. Snapshot at noon.",
+    "Empty {day}. The oven needs cleaning, and you've just lost your only excuse."
+  ],
+  "time": {
+    "dawn": [
+      "You're up. The floorboards doxxed you.",
+      "Quiet, please. It's too early for your music, your kettle, or your personality.",
+      "Heating's in cold storage until seven, and so are you.",
+      "gm, but quietly. Too early for the hoover, so I'm just standing near it. Threateningly."
+    ],
+    "morning": [
+      "My fork's gone missing again. Once more, and this flat hard forks.",
+      "Someone put the empty cereal box back in the cupboard. That's a rug pull.",
+      "Your mug is growing something green. Finally, a green candle.",
+      "I've opened the window again. You'll close it again. That's our roadmap."
+    ],
+    "day": [
+      "I sorted the post. Yours, mine, and one I opened by accident and read twice.",
+      "You're making tea? Bullish. Two sugars, and the mug you hide from me.",
+      "Bin bags still by the door. Someone here is holding bags, and it's not me.",
+      "The flat's quiet, so I've labelled everything in the fridge. Even the fridge."
+    ],
+    "dusk": [
+      "It's your night on the dinner rota. I'm not hungry. I'm patient.",
+      "Lights on already? The electric meter thinks it's a bull run.",
+      "Someone's cooking with garlic. It's in the curtains now, permanently on-chain.",
+      "Golden hour. Your dishes have never looked better. Still dirty, but cinematic."
+    ],
+    "night": [
+      "Still up? The walls are thin. I can hear you checking the floor.",
+      "If you're raiding the fridge, top shelf's mine, middle's mine, bottom's negotiable.",
+      "Leaving the dishes to soak overnight is not a plan. It's copium.",
+      "gn. Door's locked, lights are off, and there's a note on your pan. Sleep well."
+    ]
+  },
+  "days": {
+    "monday": [
+      "I spun the chore wheel at midnight, and it landed on you. Again. The wheel has conviction."
+    ],
+    "tuesday": [
+      "Tuesday, fridge clear out. Anything unlabelled is now a community airdrop. I'm the community."
+    ],
+    "wednesday": [
+      "Halfway through the week, and somehow halfway through my oat milk. Whale alert."
+    ],
+    "thursday": [
+      "Thursday, bin day. The bins are not a governance vote. Please stop voting no."
+    ],
+    "friday": [
+      "If you're having the nads round this weekend, I've hidden the good glasses and labelled the cheese. Individually."
+    ],
+    "saturday": [
+      "Saturday, deep clean. I've made a playlist, a rota and a speech. LFG."
+    ],
+    "sunday": [
+      "Sunday, house meeting. Item one, the bins. Item two, a roadmap for the bins."
+    ]
+  },
+  "weather": {
+    "clear": [
+      "I'm staking the whole washing line while the sun's out. The radiator's all yours."
+    ],
+    "cloud": [
+      "Cloudy, and my washing's out. If it rains, you're bringing it in. I've decided."
+    ],
+    "rain": [
+      "Take my umbrella. It's a loan, and I know its floor price."
+    ],
+    "snow": [
+      "Someone has to shovel the front step. I checked the rota, and someone is you."
+    ],
+    "fog": [
+      "Foggy, so I can't see if the bins went out. Hopium says yes. History says no."
+    ],
+    "wind": [
+      "The recycling blew all down the street. Congratulations on your first airdrop."
+    ],
+    "hot": [
+      "Scorcher. The shared fan points at my room now, by snapshot vote. You were asleep."
+    ],
+    "cold": [
+      "Leave the thermostat alone. I've put an extra blanket on your bed, with an invoice."
+    ]
+  },
+  "events": {
+    "meeting": {
+      "ahead": [
+        "Your last meeting heard me tell the landlord he's ngmi. I've apologised. To the meeting.",
+        "I'll stay out of shot this time. My towel cameo is still someone's pfp.",
+        "The internet's all yours. {event} at {when}. The microwave is standing down."
+      ],
+      "soon": [
+        "Meeting any second. Mute yourself, ser. I'm about to use the blender.",
+        "Camera check. {event} is {soon}. Move the drying rack, my pants aren't going on-chain."
+      ],
+      "peek": [
+        "Mute, please. The kettle has opinions."
+      ]
+    },
+    "big": {
+      "ahead": [
+        "My good shirt's ironed for your big day, as a loan. I've counted the buttons.",
+        "I ran a poll in the group chat. The flat's bullish on you. I voted twice.",
+        "Good luck. {event} at {when}. Smash it, and I'll unlabel one yoghurt."
+      ],
+      "soon": [
+        "Nearly time. There's a note on your door. For once, it says wagmi.",
+        "Deep breaths. {event} is {soon}. Not in my shirt, it's dry clean only."
+      ],
+      "peek": [
+        "Take my lucky mug. Drop it, and you're ngmi."
+      ]
+    },
+    "focus": {
+      "ahead": [
+        "I've hidden the remote. Not from you. For you.",
+        "Do not disturb sign's on your door. I've added a footnote. It says, except bins.",
+        "I'll text instead of knocking. {event} from {when}. Then I'll knock to say I've texted."
+      ],
+      "soon": [
+        "Phone in the fruit bowl. If the floor moves, I'll tell you. It won't.",
+        "Snacks are on your desk. {event} is {soon}. Unlabelled, as a treat."
+      ],
+      "peek": [
+        "Blender's unplugged. We're both being very brave."
+      ]
+    },
+    "health": {
+      "ahead": [
+        "Mention the cough. The whole flat's been taking notes and has voted on a diagnosis.",
+        "If they ask what's weighing on you, mention me. I'm one of your bags.",
+        "Take care. {event} at {when}. Your chores are in cold storage till you're back."
+      ],
+      "soon": [
+        "Bring a book for the waiting room. Borrow mine. I know what page I'm on.",
+        "Go on, {event} is {soon}. Your dishes will wait. They've had practice."
+      ],
+      "peek": [
+        "Look after yourself. Wagmi, even you."
+      ]
+    },
+    "workout": {
+      "ahead": [
+        "Your protein powder hit the dip. Unrelated, but look at my arms.",
+        "I'd come with you, but I've done my steps today. To the kettle.",
+        "Sweaty kit goes in the wash after. {event} at {when}. Not on my radiator."
+      ],
+      "soon": [
+        "I've put your trainers outside. They'd started paying rent.",
+        "Off you go, {event} is {soon}. Your banana's on the counter. For now."
+      ],
+      "peek": [
+        "Take the kit bag from the hallway. It's started a family."
+      ]
+    },
+    "food": {
+      "ahead": [
+        "Eating out? If there's a doggy bag, I'm the dog.",
+        "If you're cooking, use your own pan. My good pan is a one of one.",
+        "Leftovers get labelled. {event} at {when}. Name, date and a threat."
+      ],
+      "soon": [
+        "Sneak chips home if you like. I'll hear the bag. I always hear the bag.",
+        "Bring back leftovers. {event} is {soon}. I'm in my accumulation phase."
+      ],
+      "peek": [
+        "Label your leftovers. Unlabelled food is exit liquidity."
+      ]
+    },
+    "social": {
+      "ahead": [
+        "Out later? Take a key. Last time you buzzed at two and I answered in my retainer.",
+        "Borrow my good jacket. Bring it back in two weeks. Real two weeks, not roadmap two weeks.",
+        "Bringing anyone back? {event} at {when}. Send me their names for the allowlist."
+      ],
+      "soon": [
+        "Have fun. Take your own charger. Mine's been on enough dates.",
+        "Any cake that comes home, a slice is mine. {event} is {soon}. Call it royalties."
+      ],
+      "peek": [
+        "Text me when you're home, ser. Not the group chat."
+      ]
+    },
+    "family": {
+      "ahead": [
+        "If your family asks about the flat, say spotless. I'll make it true by Christmas.",
+        "If they ask what your flatmate does, say degen. That ends every conversation.",
+        "Bring leftovers home. {event} at {when}. The empty tubs are by the door, full of hopium."
+      ],
+      "soon": [
+        "Take the good biscuits off my shelf. Families can smell supermarket ones.",
+        "Wear something nice. {event} is {soon}. Not my hoodie, your mum has met my hoodie."
+      ],
+      "peek": [
+        "Say hi from me. Leave out the degen part."
+      ]
+    },
+    "errand": {
+      "ahead": [
+        "We need washing up liquid. I've bought the last three. It's in the ledger.",
+        "While you're out, bin liners. That's the only alpha I've got.",
+        "Take my big shopping bag. {event} at {when}. Bring it back, that bag and I have history."
+      ],
+      "soon": [
+        "Keys, phone, list. It just says bin liners. I've been asking wen since March.",
+        "Take the recycling on your way. {event} is {soon}. The neighbours think we're fun."
+      ],
+      "peek": [
+        "We're out of toilet roll. I've been using the takeaway menus."
+      ]
+    },
+    "travel": {
+      "ahead": [
+        "Off somewhere? Leave the plant schedule. When you're back, it'll prefer me.",
+        "I'll keep out of your room while you're away. Trust me. Don't verify.",
+        "Check your bag for my charger. {event} at {when}. It's seen more of the world than I have."
+      ],
+      "soon": [
+        "Your room stays exactly as you left it. The thermostat doesn't. I'm the devs now.",
+        "Safe trip. {event} is {soon}. Text me when you get there, or I'm subletting your room."
+      ],
+      "peek": [
+        "Leave the spare key. It's going in my cold wallet, the sock drawer."
+      ]
+    },
+    "rest": {
+      "ahead": [
+        "Day of rest? Lovely. I'll tiptoe, loudly enough that you know I'm tiptoeing.",
+        "Earplugs are on your pillow. Not because of my snoring. Okay, because of my snoring.",
+        "Rest well. {event} at {when}. Touch grass, or at least touch the hoover."
+      ],
+      "soon": [
+        "Phone off. If the group chat spreads FUD, I'll handle it. I live for that.",
+        "I'll keep it quiet. {event} is {soon}. Even my sighs are on mute."
+      ],
+      "peek": [
+        "Rest up. I'll do the bins and mention it only twice."
+      ]
+    },
+    "other": {
+      "ahead": [
+        "No idea what this is, so I went through your bin. Still no idea.",
+        "Something on today I'm not invited to? I don't get FOMO. I get resentful.",
+        "The group chat has a theory. {event} at {when} is a date. I started that."
+      ],
+      "soon": [
+        "Whatever it is, take a snack, a towel and your own charger. Your own.",
+        "Mystery plans. {event} is {soon}. No idea what it is, but you've showered, so I'm bullish."
+      ],
+      "peek": [
+        "Sounds big. Is there a group chat I'm not in?"
+      ]
+    }
+  },
+  "pokes": {
+    "hat": {
+      "any": [
+        "Hands off. The head's labelled. So was my oat milk.",
+        "You poked my head. That's going on the agenda, right after the bins.",
+        "You've borrowed my charger, umbrella and hoodie. My head's not on the allowlist."
+      ],
+      "beanie": [
+        "Beanie on indoors. The heating's been bearish since you touched the thermostat.",
+        "Careful, the beanie. One loose thread and it's a rug pull."
+      ],
+      "cap": [
+        "Cap's on backwards. That means it's your turn on the rota. It's always backwards.",
+        "You borrowed this cap for a day. Two weeks later it came back tanned."
+      ],
+      "crown": [
+        "Mind the crown. I was elected head of the flat. Turnout was me.",
+        "Hands off the crown. It goes to whoever remembers bin day. Rare trait."
+      ],
+      "horns": [
+        "Careful, the horns are pointy. I save them for thermostat negotiations.",
+        "The horns are for the bathroom queue. Nobody's tried to ape in twice."
+      ],
+      "helmet": [
+        "Helmet stays on. I'm cleaning the oven today, and I've seen the oven.",
+        "Helmet's for your cupboard. Every time it opens, I get rekt by tupperware."
+      ],
+      "hair": [
+        "Don't touch the hair. I did it in the bathroom while you queued outside.",
+        "Leave the hair. It took an hour and all of your conditioner."
+      ],
+      "band": [
+        "Headband on means deep clean. Every mug in your room is getting liquidated.",
+        "Headband's for scrubbing your pan. It's been soaking so long it's vesting."
+      ],
+      "hat": [
+        "Mind the hat. When it's on, it's a house meeting. It's on now.",
+        "Don't knock the hat off. It's the only thing in this flat nobody's borrowed."
+      ],
+      "odd": [
+        "Yes, it's on my head. No, it's not communal. It's a rare trait.",
+        "I found it in the hallway, unclaimed. Under house rules, that's a free mint."
+      ],
+      "none": [
+        "No hat today. I lent it to the house. The house said two weeks.",
+        "That's my bare head, not the doorbell. Though I'd answer quicker than you."
+      ]
+    },
+    "face": {
+      "any": [
+        "That's my face. It's not a shared space. I checked the lease.",
+        "Boop. I've added no poking to the whitepaper. Backdated.",
+        "Personal space is a house rule. I proposed it, seconded it, and passed it."
+      ],
+      "glasses": [
+        "These glasses can spot an unwashed mug through a closed door.",
+        "Careful, the glasses. I'm counting the mugs in your room. You're accumulating."
+      ],
+      "sleepy": [
+        "Don't poke the tired eyes. Your alarm went off four times. Through my wall.",
+        "Tired eyes. I was up all night deciding how to word a sticky note."
+      ],
+      "smiling": [
+        "Eyes shut, smiling. It's how I cope with your dishes vesting in the sink.",
+        "Happy face, eyes shut. The mess is in cold storage now."
+      ],
+      "wide": [
+        "Wide eyes, yes. Someone cleaned the kitchen. I'm still checking it's mainnet.",
+        "This is my someone else took the bins out face. Rare trait."
+      ],
+      "narrow": [
+        "This is me reading the group chat. Someone said they'd do the dishes. Later.",
+        "Squinting? I'm looking at the oat milk. It's lower than I left it."
+      ]
+    },
+    "collar": {
+      "any": [
+        "You poked me with the same finger you used on the butter. You're doxxed.",
+        "Want to borrow this? Form's on the fridge. Then connect wallet.",
+        "Easy, it's freshly washed. With my own detergent, for once. Yours smells nicer."
+      ],
+      "suit": [
+        "Mind the suit. It signed the lease. It'll fight for the deposit.",
+        "The suit's for landlord meetings. The boiler's broken, and the devs are silent."
+      ],
+      "costume": [
+        "Yes, I'm in costume. The house party was last week. Nobody shared the alpha.",
+        "I wear the costume for landlord inspections. He can't evict what he can't recognise."
+      ],
+      "hoodie": [
+        "That's my hoodie. It knows the way to your room by itself.",
+        "Hood up means gn, even at noon. Especially if it's about the dishes."
+      ],
+      "tee": [
+        "This tee's clean. The pile on your chair just hit a new ATH.",
+        "Careful, the tee. I found it in your drawer. Squatter's rights end today."
+      ],
+      "robe": [
+        "Don't tug the robe. Couriers see it and think I'm the landlord.",
+        "The robe means I'm off duty. The dishes can wait. Yours can't."
+      ],
+      "jacket": [
+        "This jacket's technically yours. I've worn it more, so the snapshot says mine.",
+        "Six pockets on this jacket. Five hold bin liners. One holds grudges."
+      ],
+      "armor": [
+        "Knock all you like. The armour's rated for sarcasm, sticky notes and borrowed spoons.",
+        "The armour's for when I mention your mugs. You get defensive."
+      ],
+      "none": [
+        "Nothing on. Every top I own got borrowed, one by one. I'm exit liquidity.",
+        "No clothes, because my washing's queued behind yours. Since Tuesday."
+      ]
+    }
+  }
+}

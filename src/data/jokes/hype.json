@@ -1,0 +1,436 @@
+{
+  "archetype": "hype",
+  "intro": [
+    "Mint confirmed! Biggest signing in club history! The medical was you zooming in on a jpeg.",
+    "Years in an empty booth, and finally a player walks out. In slippers.",
+    "Welcome to the broadcast! Your whole life, live, with slow motion replays. Even the yawns."
+  ],
+  "ring": [
+    "Pick up, ser! The bedside table is going WILD!",
+    "The crowd is chanting your name. It's me.",
+    "It's ringing! Will they pick up? I can't look!"
+  ],
+  "wake": [
+    "AND THEY'RE UP! One eye open. The other is appealing the decision.",
+    "LFG! {event} at {when}. Every pundit has you winning, and I'm every pundit.",
+    "Answered on ring two! Ring three is in the tunnel, crying.",
+    "Vertical! A new ATH! Previous record: horizontal.",
+    "What a save by the thumb! The legs remain bearish.",
+    "Game day, {event} at {when}! Face painted in your colours. Duvet grey.",
+    "{Name}gm! You're up! Lap of honour, straight to the kettle!",
+    "WE ARE LIVE! Sold out crowd! Attendance: me and a lamp."
+  ],
+  "snooze": [
+    "Shock result! The pillow wins at home again.",
+    "Alarm subbed off after four seconds! Worst debut I've ever seen.",
+    "Nine minutes of dead air. Over to the weather: heavy duvet expected.",
+    "Launch delayed nine minutes! Still earlier than any roadmap.",
+    "Our star takes a knee. Then both knees. Then the duvet.",
+    "Straight back under! And the crowd goes mild."
+  ],
+  "voicemail": [
+    "Live from your voicemail! Empty arena, but the echo is incredible. Incredible.",
+    "Call me back, champ! {event} at {when}. I've made a wagmi banner, spelled wrong.",
+    "Phone down the back of the sofa again? That sofa remains unbeaten.",
+    "No answer, and I refuse to panic. Not paper hands. Just very, very shaky.",
+    "You missed my team talk, so your coat got it. {event} at {when}. The coat is ready.",
+    "Hype man here with a FULL VOLUME LFG. Apologies to your neighbours."
+  ],
+  "absence": [
+    "THEY'RE BACK! Greatest comeback in history! You went to the shops.",
+    "You were gone for hours, so I commentated the fridge. Strong fridge. Bit cold.",
+    "Hours away! I held a minute's silence for you. It lasted three hours.",
+    "I watched the floor the whole time you were out. Great news, the carpet's stable."
+  ],
+  "owner": [
+    "Verified on-chain! I'm a one club Chog now, and the club is you.",
+    "You held through every red candle. I'd run through a wall for you. A small wall.",
+    "My owner's fixture! {event} at {when}. Your name's on my shirt, in pen."
+  ],
+  "stranger": [
+    "Visitor in the away end! You can watch, but you can't sing the songs.",
+    "Away fan, welcome! The hype is free, but the chants are allowlist only.",
+    "You're not my player, but fine. {event} at {when}? One LFG, on loan."
+  ],
+  "recall": [
+    "Stat check: you've snoozed {snoozes}. The snooze button is our top scorer.",
+    "{skipped}: no show! I told the fans two weeks. They booed.",
+    "You told me {fact}. Pure alpha. I've kept it secret, which is hard at this volume.",
+    "That's {streak} unbeaten! Up only! I've lost my voice and I don't want it back.",
+    "{attended}: you turned up! On-chain hall of fame. The hall is a shoebox."
+  ],
+  "now": [
+    "We're live! This is the quiet part, so I'm whispering. I'm whispering SO hard.",
+    "Kickoff, {event} has started! I can't watch. I'm watching."
+  ],
+  "calendarFree": [
+    "Nothing booked on {day}! Free agent, and the sofa has made an offer.",
+    "{day} is empty! That's not a gap in the diary, that's an airdrop."
+  ],
+  "time": {
+    "dawn": [
+      "Up before the birds! The birds have FOMO.",
+      "Dawn training! Just you and a fox. The fox looks sharper.",
+      "SO early. Few understand. The few are bakers.",
+      "gm! Nobody else is up, so I'm hyping the streetlights. They're doing great."
+    ],
+    "morning": [
+      "The toast fell butter side UP. Today is up only.",
+      "gm! Coffee one is down, and coffee two is warming up on the bench.",
+      "What a sprint for the bus! Pure pace! Wrong bus.",
+      "Matching socks, first try, unbelievable scenes! Oh no. One's navy."
+    ],
+    "day": [
+      "Halftime! The pros eat orange slices. You're eating crisps over the sink.",
+      "Afternoon slump! The eyelids are bearish. The biscuit is our only support.",
+      "You stood up! Huge green candle! Oh, and straight back down.",
+      "Mid afternoon, still in the game! Number go up! The number is unread emails."
+    ],
+    "dusk": [
+      "Final whistle on the workday! Laptop shut! And the ref adds ten minutes of emails.",
+      "Post match interview, fren! Any regrets? Apart from the fourth coffee.",
+      "Golden hour! Everyone looks like a champion in this light. Even you.",
+      "Sundown, where heroes are made. Or pasta. Usually pasta."
+    ],
+    "night": [
+      "Extra time! The crowd's gone home, and only one chant is left. Bed, bed, bed.",
+      "It's late, so it's whisper commentary. Lying down now. Gorgeous technique.",
+      "Another hour on the timeline this late! Incredible stamina, terrible idea.",
+      "gn! Lights off, eyes shut, phone down. Currently one out of three."
+    ]
+  },
+  "days": {
+    "monday": [
+      "New week, fresh roadmap, zero losses! Give it until lunch."
+    ],
+    "tuesday": [
+      "Tuesdays are the week's unsung midfielder. All the work, no songs. So I wrote one: TUESDAY!"
+    ],
+    "wednesday": [
+      "The weekend is three days away! Actual days, not two weeks."
+    ],
+    "thursday": [
+      "Thursday, semi final of the week! I've already ironed my scarf."
+    ],
+    "friday": [
+      "Cup final of the week, and we've already won! Open top bus parade, straight to the sofa."
+    ],
+    "saturday": [
+      "No work, a whole free day, limitless potential! Probably nothing."
+    ],
+    "sunday": [
+      "Sunday, rest day! Doctor's orders. I'm not a doctor, but I am very loud."
+    ]
+  },
+  "weather": {
+    "clear": [
+      "Clear skies, perfect conditions to touch grass! What a first touch that'll be."
+    ],
+    "cloud": [
+      "Overcast and bearish! Perfect for a dramatic walk to the kettle."
+    ],
+    "rain": [
+      "We play through this! Hood up, chin up, phone in a sandwich bag."
+    ],
+    "snow": [
+      "The pitch is white, the match is off, and the snowman starts in goal."
+    ],
+    "fog": [
+      "I can't see the pitch, so I'm commentating by sound. That sounds like a bin."
+    ],
+    "wind": [
+      "Huge crosswind! Your umbrella is now playing for the other team."
+    ],
+    "hot": [
+      "Scorcher! An ATH for the thermometer, and for your armpits."
+    ],
+    "cold": [
+      "The only warm up today is you, hugging the radiator."
+    ]
+  },
+  "events": {
+    "meeting": {
+      "ahead": [
+        "One hour, one agenda point, zero shots on target. A classic nil nil.",
+        "Talking fixture today! First one to say great question wins the golden boot.",
+        "Cameras on! {event} at {when}. I want you unmuted and dangerous."
+      ],
+      "soon": [
+        "Mic check! Camera on, mute ready, toast out of shot.",
+        "Game plan! {event} is {soon}! Say one alpha thing early, then nod until the final whistle."
+      ],
+      "peek": [
+        "Stay muted. Unmute once, to ask wen lunch."
+      ]
+    },
+    "big": {
+      "ahead": [
+        "Big one today, the final! I've cleared space in the trophy cabinet. It's a drawer.",
+        "Walk in today with a rare trait nobody else has. Ironed sleeves.",
+        "Title fight! {event} at {when}. I'm in your corner with a towel and no training."
+      ],
+      "soon": [
+        "Deep breath! This is the moment! I'm so nervous I've chewed through my headset.",
+        "Shoulders back, {event} is {soon}! You're going to mainnet. In a clean shirt."
+      ],
+      "peek": [
+        "Title decider. I slept in my kit."
+      ]
+    },
+    "focus": {
+      "ahead": [
+        "Focus block today! This is golf, not football, so I'll whisper from behind a tree.",
+        "One uninterrupted hour would be a new ATH. The old record is eleven minutes.",
+        "Phone face down! {event} from {when}. The timeline has never won a medal."
+      ],
+      "soon": [
+        "Closed training session! No press allowed. I'm the press, so I'm leaving.",
+        "Close every tab, {event} is {soon}! Especially the one with the floor price."
+      ],
+      "peek": [
+        "The charts are benched, and the group chat is furious."
+      ]
+    },
+    "health": {
+      "ahead": [
+        "Medical today, just like a big transfer! Except the gas fee is hospital parking.",
+        "Check up today! They'll ask how you sleep. Do not say degen hours.",
+        "Physio on standby! {event} at {when}. I'm pacing like it's penalties."
+      ],
+      "soon": [
+        "Brave face on, fren! I'll be right here, being quiet. A career first.",
+        "Stay calm, {event} is {soon}! Walk out like it's the tunnel. Nod to the fish tank."
+      ],
+      "peek": [
+        "Tell them everything. Fully doxxed."
+      ]
+    },
+    "workout": {
+      "ahead": [
+        "Cue the training montage! Heavy bag, big sprint, four minutes looking for your water bottle.",
+        "Today the gains start vesting. First unlock: tomorrow, on the stairs.",
+        "Stopwatch ready! Airhorn ready! {event} at {when}, and your knees are not ready."
+      ],
+      "soon": [
+        "Lace up! Your first rep will look like every champion's first rep. Confused.",
+        "Warm up, {event} is {soon}! Big stretch, bigger stretch. Oh, that's a yawn."
+      ],
+      "peek": [
+        "Wen gains? The devs say two weeks."
+      ]
+    },
+    "food": {
+      "ahead": [
+        "Big feed today! Starter, main and dessert. Going for the treble!",
+        "Eating out today! Order with conviction. Food envy is paper hands.",
+        "Napkin on! {event} at {when}. Every sauce spill goes on-chain."
+      ],
+      "soon": [
+        "Pre match meal! Carbs are the alpha. The side salad is a decoy.",
+        "Fork ready, {event} is {soon}! Somebody at that table WILL fumble the soup."
+      ],
+      "peek": [
+        "Bread basket incoming. Ape in before anyone sees a menu."
+      ]
+    },
+    "social": {
+      "ahead": [
+        "I'll be calling every dance move live tonight. All two of them.",
+        "At parties, assists count double. Set up the jokes, pass the dip.",
+        "Doors open! {event} at {when}. Big entrance, big night, big apology in the group chat."
+      ],
+      "soon": [
+        "Kit check! Phone charged, keys found, best story warming up. Not the printer one.",
+        "Headline act, {event} is {soon}! Water between rounds. Wagmi, but hydrated."
+      ],
+      "peek": [
+        "You walk in, the place erupts. Probably nothing."
+      ]
+    },
+    "family": {
+      "ahead": [
+        "Home game today! Toughest crowd in the league. They've seen your very first pfp.",
+        "Hug the original holders today. They minted you. No refunds.",
+        "Derby day! {event} at {when}! First tackle: you look tired."
+      ],
+      "soon": [
+        "Final team talk! Defend deep, smile a lot, never mention crypto.",
+        "Brace for old stories, {event} is {soon}! Laugh like it's the first time. It's the ninth."
+      ],
+      "peek": [
+        "Day one fans, holding you since mint."
+      ]
+    },
+    "errand": {
+      "ahead": [
+        "Errand day, record attempt! Current holder: you, last week, two bags.",
+        "No hype, no roadmap, no rugs. Errands are the most honest project in town.",
+        "I'm calling this one live! {event} at {when}. Few understand, fewer care."
+      ],
+      "soon": [
+        "Away game! The locals love you, and the locals are two pigeons.",
+        "Shoes on, {event} is {soon}! Keys, wallet, phone. Not the cold wallet, the normal one."
+      ],
+      "peek": [
+        "No gas fees, just bus fare."
+      ]
+    },
+    "travel": {
+      "ahead": [
+        "Away day! The team bus leaves on time, and our star player is still packing socks.",
+        "Passport, tickets, charger! One of these is still on the bed.",
+        "Road trip! {event} at {when}. Your squad is you and a suitcase that won't zip."
+      ],
+      "soon": [
+        "Security queue! Shoes off, belt off, dignity off. Great technique.",
+        "Away day! {event} is {soon}! Bag in one hand, ticket in the other, sandwich in your mouth."
+      ],
+      "peek": [
+        "Away day. Travelling support: one Chog, extremely loud."
+      ]
+    },
+    "rest": {
+      "ahead": [
+        "Forget up only. Today is horizontal only.",
+        "You're staked to the sofa today. No unstaking until dinner.",
+        "Rest day tactics! {event} at {when}! No charts, one blanket, and a world class sigh."
+      ],
+      "soon": [
+        "Phone on silent! Anything that happens while you rest was probably nothing.",
+        "Settle in, {event} is {soon}! Horizontal, motionless, elite. Exactly like we trained."
+      ],
+      "peek": [
+        "Vesting period. Do not move."
+      ]
+    },
+    "other": {
+      "ahead": [
+        "Something's on today! I can't tell if it's a sport, a ceremony or a parcel.",
+        "Stealth drop today! No details at all. Massively bullish.",
+        "Mystery fixture, {event} at {when}! No idea what it is. Already got the foam finger."
+      ],
+      "soon": [
+        "The pundits are split! Half can't explain it, and the other half is yelling wagmi.",
+        "Stop everything, {event} is {soon}! I've studied the title so hard I'm bullish on the vowels."
+      ],
+      "peek": [
+        "Never heard of it. Already aped in."
+      ]
+    }
+  },
+  "pokes": {
+    "hat": {
+      "any": [
+        "Head contact! I'm going down! Three rolls and a scream!",
+        "Head poke! Three replay angles, all finger. That's my new pfp.",
+        "A tap on the head! Snapshot taken. You're on the allowlist for hugs."
+      ],
+      "beanie": [
+        "Mind the beanie! Knitted in club colours. Wrong club.",
+        "Don't pull the knit! One loose thread and the beanie becomes a scarf."
+      ],
+      "cap": [
+        "Hands off the lucky cap! Never washed. Pure concentrated luck, and smell.",
+        "The cap's backwards! That's degen mode. Or I dressed in the dark."
+      ],
+      "crown": [
+        "Mind the crown! Won it in the genesis final. The other finalist fell asleep.",
+        "The crown! Biggest whale on this phone. Only whale on this phone."
+      ],
+      "horns": [
+        "Bull by the horns! Very bullish of you. Also, ow.",
+        "Poke the horns and I charge! Armed only with compliments. You look great."
+      ],
+      "helmet": [
+        "Knock on the helmet! Game day armour, built for big hits and comment sections.",
+        "Careful, ser! This helmet protects my only copy of the seed phrase."
+      ],
+      "hair": [
+        "Not the hair! Rare trait! Was a rare trait.",
+        "Careful with the hairdo! You pressed it like a lift button."
+      ],
+      "band": [
+        "The headband! Soaked in pure hopium. Please don't smell it.",
+        "Headband on means it's the final quarter. Or I couldn't find a brush."
+      ],
+      "hat": [
+        "Watch the hat! Worn to every final, saw nothing, tall man in front.",
+        "One poke on the hat! Two more and it's the first real hat trick."
+      ],
+      "odd": [
+        "That's the rarest headwear in the league. One of one. Slightly damp.",
+        "Is that even a hat? The league says no. The fans say utility."
+      ],
+      "none": [
+        "Bare head poke! No hat, no helmet. Scalp doxxed.",
+        "No hat! Built for headers. I've never won a header."
+      ]
+    },
+    "face": {
+      "any": [
+        "Finger to the eye! I'm still playing! I can see colours I've never seen!",
+        "Face poke, no flinch! Unbelievable composure. Inside I'm screaming.",
+        "Face of the franchise! On the pfp, the banner, and now your fingerprint."
+      ],
+      "glasses": [
+        "Mind the glasses! These are for DYOR. Today's research: your thumb.",
+        "Scouting report through the shades! Strengths, everything. Weaknesses, the snooze button."
+      ],
+      "sleepy": [
+        "Gently with the eyes! Up all night rewatching your highlights. All four.",
+        "Half closed eyes! Saving my energy for your next green candle."
+      ],
+      "smiling": [
+        "Eyes shut, grinning! Pure joy, folks! Or bracing for a rug!",
+        "Poke the happy face! Still smiling! This Chog has never seen a chart!"
+      ],
+      "wide": [
+        "Wide eyes! That's my face for a whale alert. Also for any sandwich.",
+        "Poke the big eyes and they get BIGGER! Number go up!"
+      ],
+      "narrow": [
+        "Game face! Scanning the crowd for whales. Found a seagull.",
+        "Squint face! Reviewing the replay frame by frame. Verdict: you have lovely fingers."
+      ]
+    },
+    "collar": {
+      "any": [
+        "Shirt grab! Yellow card anywhere else. Here, it's affection.",
+        "You poked the kit! Signed by the whole squad. It's just me, in crayon.",
+        "Grab the shirt all you like. Nobody's ever got it off me. Nobody's tried."
+      ],
+      "suit": [
+        "Careful with the suit! Awards night kit. Best commentator, voted by me.",
+        "Watch the lapels! This suit has seen three mainnet launches and one wedding buffet."
+      ],
+      "costume": [
+        "That's the mascot outfit! Every great team has one. Ours is sweating.",
+        "Careful, the costume! Getting out of it has a vesting schedule."
+      ],
+      "hoodie": [
+        "Mind the hoodie! Official degen uniform, worn to a final and to bed.",
+        "Hood up means I'm in the zone. The zone is quite chilly."
+      ],
+      "tee": [
+        "Match day tee! My number's on the back. One of one.",
+        "Not the tee! It's a hopeful medium."
+      ],
+      "robe": [
+        "Easy on the robe! Recovery kit: ice bath, interview, nap with the medal on.",
+        "Ring walk robe! Lights down, music up! Then I remember I'm the commentator."
+      ],
+      "jacket": [
+        "Touchline jacket! For pacing, pointing, and yelling at a cone.",
+        "Inside pocket of this jacket? My cold wallet. It's a biscuit."
+      ],
+      "armor": [
+        "Solid armour! It's survived every bear market. Your finger loses.",
+        "Gleaming armour, totally rekt proof! Is it stair proof? Unclear."
+      ],
+      "none": [
+        "No kit! Shirt off celebration, and I haven't even scored.",
+        "Nothing to grab! Just the jpeg. Ref, that's a foul on a naked man."
+      ]
+    }
+  }
+}

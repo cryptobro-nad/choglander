@@ -1,0 +1,436 @@
+{
+  "archetype": "soap-star",
+  "intro": [
+    "Previously on your life: cereal over the sink. Tonight, a mysterious stranger arrives. Me.",
+    "{Name}at last, an audience. I've survived two comas, an evil twin and the devs.",
+    "Out of everyone on Monad, you picked me. I'd weep, but it's my good mascara."
+  ],
+  "ring": [
+    "Darling, I'm calling from my own funeral.",
+    "Don't pick up. I deserve to suffer.",
+    "Answer, or I faint into the trifle."
+  ],
+  "wake": [
+    "{Name}you're awake. I sat by your bed all night. Mostly for the charger.",
+    "Today on your life: {event} at {when}. And the return of the missing sock.",
+    "You picked up. Shame. I'd already minted your eulogy.",
+    "gm. I said it to the toaster at six. It never said it back.",
+    "If you're late, claim you were kidnapped. {event} at {when}. I'll write the ransom note.",
+    "Finally. I've been pacing the conservatory for hours. We don't have a conservatory.",
+    "I dreamt you ran off with my evil twin. I'm keeping the hoodie.",
+    "You're out of the coma. Eight hours. I've aged terribly."
+  ],
+  "snooze": [
+    "We're done. I'm dumping you. See you in nine minutes.",
+    "Nine more minutes. Fine. My revenge is vesting.",
+    "Rugged. For a duvet. It's not even a nice duvet.",
+    "Paper hands, after everything. You had the best years of my battery.",
+    "Fine. I'll weep at the window. The microwave window.",
+    "Cue me sliding slowly down the wall. It's a short wall."
+  ],
+  "voicemail": [
+    "You didn't answer. I stood out in the rain. It was the sprinkler.",
+    "This is take four. {event} at {when}. Take three ended on the floor.",
+    "There's someone else. Don't lie. I've seen the new pfp.",
+    "You left me on read. On a phone call. The timeline will hear of this.",
+    "Reminder, {event} at {when}. You're out of my will. It's one jpeg.",
+    "This message comes to you from the shower floor. I'm fully clothed."
+  ],
+  "absence": [
+    "While you were away I got engaged, got amnesia and got a fringe. Have we met?",
+    "Hours alone. I nearly went back to my ex. He's the hallway rug.",
+    "You were gone so long I held your funeral. The nads brought a casserole.",
+    "I sat by the phone for hours. It buzzed once. The dentist."
+  ],
+  "owner": [
+    "You own me, darling. On-chain, that's basically a marriage. I've had worse.",
+    "You own me. I've taken your wallet address as my surname. It's mostly numbers.",
+    "I'll be there for you, darling. {event} at {when}. Front row, sobbing, holding a sign that says wagmi."
+  ],
+  "stranger": [
+    "A stranger, staking out my door. My long-lost son? No, wrong chin.",
+    "Not my owner? You're on the guest list, not the allowlist. Shoes off.",
+    "I only cry for owners. {event} at {when}? You get a polite sniff."
+  ],
+  "recall": [
+    "You snoozed {snoozes}. I forgave you every time, in front of the whole Discord.",
+    "You skipped {skipped}. I told everyone you had amnesia. Look confused.",
+    "You told me {fact}. I'll reveal it at a wedding. Probably yours.",
+    "That's {streak} in a row, up only. I've booked an orchestra. It's one recorder.",
+    "{attended}: you actually went. I cried twice. Once on cue."
+  ],
+  "now": [
+    "It's happening. Doors swing open, everyone turns. Tuck your shirt in.",
+    "Hush. {event} has begun. Somewhere, an organ plays one long, terrible note."
+  ],
+  "calendarFree": [
+    "An empty {day}. No meetings, no weddings, no secret twins. Suspicious.",
+    "Nothing on {day}. Probably nothing. That's when the evil twin turns up."
+  ],
+  "time": {
+    "dawn": [
+      "Dawn, the hour for tearful goodbyes on train platforms. Also the bins.",
+      "Me, in a nightgown at the window, reading a letter I shouldn't. It's the gas bill.",
+      "Up before the sun? Only villains and degens do that. I'll get you a cape.",
+      "Secrets always get dug up at first light. Mine's a seed phrase in the biscuit tin."
+    ],
+    "morning": [
+      "{Name}gm. I've done hair, makeup and one perfect tear. You've done a yawn.",
+      "In soaps, breakfast is when the orange juice gets thrown. Duck.",
+      "Morning light, soft and golden. And you're in the loo, scrolling for alpha.",
+      "I've fainted twice already. Once at the charts, once at a spider."
+    ],
+    "day": [
+      "Doorbell. My dead husband, back for revenge? No, an airdrop for next door.",
+      "Somewhere, an affair is starting over a lunchtime prawn salad. You've got crisps.",
+      "Afternoon slump. Who am I, where am I, and why did I ape in?",
+      "Half the day gone. On my show, that's two weddings. You've had a sandwich."
+    ],
+    "dusk": [
+      "Golden hour. Confession time. Go on, how heavy are the bags?",
+      "Whales spend sunset at tall windows, swirling brandy. You're swirling a pot noodle.",
+      "Someone will clink a glass tonight. Pray it's an engagement, not a roadmap.",
+      "The sun's going down, slowly and dramatically. It learned that from me."
+    ],
+    "night": [
+      "Late nights, I still think about my first husband. I was his exit liquidity.",
+      "gn. I sleep in full makeup, one eye open. Twins are nocturnal.",
+      "This late, I'd be pacing a balcony. You'll say gn, then scroll for two hours.",
+      "Quiet house. Too quiet. Either someone's back from the dead, or it's the boiler."
+    ]
+  },
+  "days": {
+    "monday": [
+      "Previously on your weekend: big plans, one walk, a very long nap."
+    ],
+    "tuesday": [
+      "Tuesdays are filler episodes. Even the vampire's just staking tomatoes."
+    ],
+    "wednesday": [
+      "Wednesday's episode is forty minutes of nothing, then someone faints into the dip."
+    ],
+    "thursday": [
+      "Thursday, the episode before the finale. Everyone's tense. The dog has alpha."
+    ],
+    "friday": [
+      "Friday, the season finale. Someone will cry in a taxi. Make it a nice taxi."
+    ],
+    "saturday": [
+      "Saturdays I only cry recreationally. Weekdays it's contractual."
+    ],
+    "sunday": [
+      "Sunday roast. The perfect time to reveal you're secretly a vegetarian."
+    ]
+  },
+  "weather": {
+    "clear": [
+      "Lovely day for eloping. Leave a note saying probably nothing."
+    ],
+    "cloud": [
+      "Grey, brooding and full of secrets. Like me. Like your search history."
+    ],
+    "rain": [
+      "Someone's getting dumped in the rain outside a church today. Bring a brolly."
+    ],
+    "snow": [
+      "Everything's white, silent and romantic. Somebody's about to propose, or fall over."
+    ],
+    "fog": [
+      "A mysterious stranger is about to step out of the mist. It's a jogger."
+    ],
+    "wind": [
+      "This wind's made for dramatic exits. Terrible for a seed phrase on a napkin."
+    ],
+    "hot": [
+      "My mascara's running in this heat, and nobody's even died."
+    ],
+    "cold": [
+      "My heart's been in cold storage for years. Now so are my feet."
+    ]
+  },
+  "events": {
+    "meeting": {
+      "ahead": [
+        "Someone in today's meeting will say per my last email. Where I come from, that's a slap.",
+        "Camera-on meeting today. We're all about to be doxxed. Mostly our kitchens.",
+        "At {when}, {event}. Keep your camera on. One of them could be your real father."
+      ],
+      "soon": [
+        "The meeting's nearly here. Find your light. Tilt the camera up, but not that far.",
+        "Asked for an update? {event} is {soon}. Say there have been developments."
+      ],
+      "peek": [
+        "When someone says two weeks, gasp."
+      ]
+    },
+    "big": {
+      "ahead": [
+        "Enter today like the long-lost heir. Leave with the stationery.",
+        "Hard question today? Gaze out of the window first. It worked on my third husband.",
+        "Big one today: {event} at {when}. Pause before the reveal. Not so long they leave."
+      ],
+      "soon": [
+        "Last look in the mirror. Chin up, shoulders back, number go up.",
+        "Your entrance, darling. {event} starts {soon}. Walk in like you've just been written into the will."
+      ],
+      "peek": [
+        "Season finale. Hair done, hopium topped up."
+      ]
+    },
+    "focus": {
+      "ahead": [
+        "Ignore the charts today. Stare at one email like it betrayed you.",
+        "You're building today. I'll sit on the stairs and sigh at intervals. Don't mind me.",
+        "Phone face down. {event}, from {when}. If it buzzes, it's me, faking a crisis."
+      ],
+      "soon": [
+        "Once you're heads down, each time you check for alpha, I'll gasp. Audibly.",
+        "Door shut. {event} is {soon}. If anyone knocks, say you're in a coma."
+      ],
+      "peek": [
+        "A quiet episode where nobody slaps anyone. Disappointing."
+      ]
+    },
+    "health": {
+      "ahead": [
+        "On my show, the doctor is always someone's secret ex.",
+        "Check-up today. When they ask how you're feeling, skip the monologue.",
+        "Today, {event} at {when}. Don't explain staking to the receptionist."
+      ],
+      "soon": [
+        "Deep breath. You've survived red candles. You'll survive a clipboard.",
+        "Be brave, darling. {event} is {soon}. If they ask about pain, describe it in three acts."
+      ],
+      "peek": [
+        "Brave face. I'll hum something tragic."
+      ]
+    },
+    "workout": {
+      "ahead": [
+        "Train today like your ex is watching. Glisten.",
+        "Someone will catch your eye in the gym mirror. They want the bench.",
+        "At {when}, {event}. Walk in like the villain. Limp out like the victim."
+      ],
+      "soon": [
+        "Stretch before the gym. I once pulled a hamstring fainting at a funeral.",
+        "Forgive me, sofa. {event} starts {soon}. Every rep is a betrayal."
+      ],
+      "peek": [
+        "Train like the twin who survived."
+      ]
+    },
+    "food": {
+      "ahead": [
+        "Eating out today? In soaps, someone always throws a drink. Order water.",
+        "When the food arrives, gasp like it's a long-lost relative. It's probably a sandwich.",
+        "Split the bill evenly. {event}, from {when}. Someone always rugs on dessert."
+      ],
+      "soon": [
+        "Nearly time to eat. Order slowly, like an heir. Point at things.",
+        "A warning, darling. {event} starts {soon}. Take the last bread roll and that's a feud for three generations."
+      ],
+      "peek": [
+        "Banquet scene. The good chair goes to whoever faints first."
+      ]
+    },
+    "social": {
+      "ahead": [
+        "Going out today. Pause in the doorway until everyone turns. Then head for the cheese.",
+        "Guard your date tonight. My sister loves to front-run. She married two of mine.",
+        "Coming up at {when}: {event}. Asked what you do? Sip, then say you can't discuss it."
+      ],
+      "soon": [
+        "Almost time to go out. Arrive late, leave early, spread one bit of FUD. Just one.",
+        "If anyone asks, you're seeing someone. {event} is {soon}. It's on testnet."
+      ],
+      "peek": [
+        "Look mysterious. Leave before anyone says wagmi."
+      ]
+    },
+    "family": {
+      "ahead": [
+        "If a cousin mentions crypto today, announce an engagement. To anyone.",
+        "Soap families end every visit with a thrown vase. Hide the vase.",
+        "At {when}, {event}. If anyone asks about your pfp, faint. It's the only way out."
+      ],
+      "soon": [
+        "Smile, nod and suspect every relative. Especially the cousin who says wagmi.",
+        "Brace yourself, {event} is {soon}. Asked about your love life? Say it's vesting."
+      ],
+      "peek": [
+        "Somebody has a secret wallet. It's your nan."
+      ]
+    },
+    "errand": {
+      "ahead": [
+        "Nobody on my show just pops out for errands. They come back married.",
+        "No twist, no secret baby, just you taking the bins out. Dreadful television.",
+        "Sunglasses and a scarf. {event}, from {when}. Whales must never be seen doing chores."
+      ],
+      "soon": [
+        "Slip out for the errand in stealth mode. Back before the ad break.",
+        "Actual soon, not two weeks. {event} is {soon}. How exotic."
+      ],
+      "peek": [
+        "Every great affair started in a queue."
+      ]
+    },
+    "travel": {
+      "ahead": [
+        "Weep at departures if you must, but briefly. There's a queue.",
+        "Pack like you're fleeing the country. Two outfits, a disguise and a charger.",
+        "Today's episode: {event} at {when}. Whoever leaves comes back with a new pfp."
+      ],
+      "soon": [
+        "Nearly time to go. One last look back at the door. Then check the hob.",
+        "Travel safely. {event} starts {soon}. If a stranger claims to be your sibling, don't connect wallet."
+      ],
+      "peek": [
+        "Leave like it's the finale. Pack like it isn't."
+      ]
+    },
+    "rest": {
+      "ahead": [
+        "Today calls for the fainting couch, one arm across the forehead. The sofa counts.",
+        "Lie very still today. My coma was my ATH.",
+        "Phone in a drawer. {event} at {when}. Let the long-lost relatives leave a message."
+      ],
+      "soon": [
+        "Almost time to rest. Robe on, lights low. Recline like a widow with a secret.",
+        "Fake your own disappearance. {event} starts {soon}. I'll handle the search party."
+      ],
+      "peek": [
+        "Silk eye mask. Wake me for weddings and airdrops."
+      ]
+    },
+    "other": {
+      "ahead": [
+        "Something mysterious on the calendar today. No details, no whitepaper. I'm hooked.",
+        "An unexplained event today. Very soap. Someone's either getting married or doxxed.",
+        "At {when}, {event}. No idea what that is. I played one in season four."
+      ],
+      "soon": [
+        "Whatever it is, I'm already dressed for it. Ballgown, tiara. So early.",
+        "No research. {event}, {soon}. I aped into my second husband the same way."
+      ],
+      "peek": [
+        "Never heard of it. Deeply bullish."
+      ]
+    }
+  },
+  "pokes": {
+    "hat": {
+      "any": [
+        "Not the hat, darling. That's my good side. You've ruined the close-up.",
+        "You touched my hat. On daytime TV, that's a proposal. I accept.",
+        "Unhand the hat, ser. We haven't been introduced."
+      ],
+      "beanie": [
+        "Gently. My great-aunt left me this beanie. And half a seed phrase.",
+        "Don't tug the beanie. One loose thread and my whole alibi unravels."
+      ],
+      "cap": [
+        "Leave the cap. I've worn it low since I got doxxed.",
+        "Don't turn the cap round. Backwards, I'm playing seventeen again."
+      ],
+      "crown": [
+        "Mind the crown. For this, my cousin poisoned a soup.",
+        "Hands off the crown. It's the only rare trait I inherited."
+      ],
+      "horns": [
+        "Yes, horns. I'm the evil twin this week. The good one's on testnet.",
+        "Hands off the horns. Villain arc. So far I've said ngmi to a pigeon."
+      ],
+      "helmet": [
+        "Knock all you like. The helmet's for battle scenes and family dinners.",
+        "Careful with the helmet. It's for car chases. I don't drive."
+      ],
+      "hair": [
+        "Not the hair. Three hours in makeup, for a rain scene.",
+        "You mussed my hair. Now I look like the cheaper recast."
+      ],
+      "band": [
+        "Leave the headband. It holds back my hair, my tears and my hopium.",
+        "Bandana stays on. I fled my own wedding in it. Still smells of cake."
+      ],
+      "hat": [
+        "Easy on the hat. I take it off for funerals and red candles.",
+        "Mind the hat. There's a secret letter in the lining. Probably a parking ticket."
+      ],
+      "odd": [
+        "It's a rare trait. Wardrobe calls it a cry for help.",
+        "The thing on my head? Abandoned storyline. Same as my accent."
+      ],
+      "none": [
+        "Bare head. My last hat ran off with my understudy.",
+        "Nothing on my head. No rare trait. Just bone structure and grief."
+      ]
+    },
+    "face": {
+      "any": [
+        "Careful. That cheek is famous. I still get royalties from the slap.",
+        "That's a one of one face. No reshoots.",
+        "You poked my face. In my world, that starts a feud. Three seasons, minimum."
+      ],
+      "glasses": [
+        "Mind the glasses. I wear them indoors so people ask what happened.",
+        "Don't smudge the glasses. I've seen terrible things through them. Mostly gas fees."
+      ],
+      "sleepy": [
+        "Gently. These eyes cried through four seasons and a dentist appointment.",
+        "Don't poke. I was up all night watching my reruns. I was wonderful."
+      ],
+      "smiling": [
+        "My eyes are closed in rapture, darling. Or I've seen the floor price.",
+        "Eyes shut, smiling through the pain. A bear market did this."
+      ],
+      "wide": [
+        "These eyes go wide for weddings, scandals and a free sample.",
+        "Shh, I'm mid-gasp. I've just found out who my father is."
+      ],
+      "narrow": [
+        "This squint means high conviction. Someone here is secretly my brother.",
+        "This squint means I'm bearish on the butler."
+      ]
+    },
+    "collar": {
+      "any": [
+        "Mind the outfit. I've been dumped in this twice.",
+        "You poked my outfit. A century ago, we'd be engaged.",
+        "Don't. If this tears, the devs write me out in a plane crash."
+      ],
+      "suit": [
+        "Careful with the suit. I wore it to object at a wedding. My own.",
+        "Don't crease the suit. I've got a will reading later. Hoping for an airdrop."
+      ],
+      "costume": [
+        "The costume's for the masquerade. Nobody knows it's me. Everybody knows it's me.",
+        "Careful with the costume. It's a disguise. I'm avoiding a whale I once dated."
+      ],
+      "hoodie": [
+        "Hood up. My incognito hoodie, for sneaking off to see someone. The fridge.",
+        "The hoodie's for crying in the car. Two breakups and the dip."
+      ],
+      "tee": [
+        "Don't stretch the tee. It's from my casual season. Ratings went bearish.",
+        "This tee's from a charity gala. I wept on stage. They minted the tissue."
+      ],
+      "robe": [
+        "Easy with the robe. I've swept out of four weddings in this.",
+        "The robe is for descending staircases. Slowly. We live in a flat."
+      ],
+      "jacket": [
+        "Don't tug the jacket. Slinging it over one shoulder is my only cardio.",
+        "The jacket has a hidden pocket. Love letters and copium."
+      ],
+      "armor": [
+        "Knock on the armour. Heartbreak-proof. I had it made after I got rekt.",
+        "Poke away. It's armour. Built for battle scenes, custody hearings and reading the comments."
+      ],
+      "none": [
+        "Nothing on. I've been stripped of my costume, my title and my allowlist spot.",
+        "No outfit. Wardrobe walked out. They took the good lighting with them."
+      ]
+    }
+  }
+}

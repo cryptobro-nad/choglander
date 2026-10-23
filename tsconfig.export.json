@@ -1,0 +1,4 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["node_modules", "**/*.test.ts", "**/*.test.tsx", "**/*.test.mjs", "src/app/api", "src/app/c", "src/proxy.ts", "src/workflows", "src/app/.well-known", ".chog-api-stash", ".chog-workflows-stash", ".chog-well-known-stash", ".chog-share-stash", ".chog-proxy-stash", ".next-web-stash"]
+}
